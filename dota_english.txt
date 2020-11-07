@@ -77,7 +77,7 @@
 		"npc_dota_hero_gyrocopter"			"Old Helicopterman"
 		"npc_dota_hero_alchemist"			"(((Alchemist)))"
 		"npc_dota_hero_invoker"				"InJoker"
-		"npc_dota_hero_silencer"			"Norton"
+		"npc_dota_hero_silencer"			"Nordstroms"
 		"npc_dota_hero_obsidian_destroyer"	"Outhouse Defiler"
 		"npc_dota_hero_lycan"				"Rycan"
 		"npc_dota_hero_brewmaster"			"Druncle"
@@ -139,11 +139,11 @@
 		"npc_dota_roshan"								"Roshan"
 		"npc_dota_roshanboo"							"Roshanboo"
 		"npc_dota_necronomicon_warrior_1"				"Necronomicon Warrior"
-		"npc_dota_necronomicon_warrior_2"				"Necronomicon Warrior"
-		"npc_dota_necronomicon_warrior_3"				"Necronomicon Warrior"
+		"npc_dota_necronomicon_warrior_2"				"Super Necronomicon Warrior"
+		"npc_dota_necronomicon_warrior_3"				"Dire Necronomicon Warrior"
 		"npc_dota_necronomicon_archer_1"				"Necronomicon Archer"
-		"npc_dota_necronomicon_archer_2"				"Necronomicon Archer"
-		"npc_dota_necronomicon_archer_3"				"Necronomicon Archer"
+		"npc_dota_necronomicon_archer_2"				"Super Necronomicon Archer"
+		"npc_dota_necronomicon_archer_3"				"Dire Necronomicon Archer"
 		"npc_dota_scout_hawk"							"Scout Hawk"
 		"npc_dota_greater_hawk"							"Greater Hawk"
 		"npc_dota_beastmaster_boar"						"Boar"
@@ -945,7 +945,7 @@
 
 		//UNDYING
 		"DOTA_Tooltip_ability_undying_decay"										"Decay"
-		"DOTA_Tooltip_ability_undying_soul_rip"										"Soul Rip"
+		"DOTA_Tooltip_ability_undying_soul_rip"										"The Clap"
 		"DOTA_Tooltip_ability_undying_tombstone"									"Tombstone"
 		"DOTA_Tooltip_ability_undying_tombstone_zombie_deathstrike"					"Deathlust"
 		"DOTA_Tooltip_ability_undying_flesh_golem"									"Flesh Golem"
@@ -1073,7 +1073,7 @@
 		"DOTA_Tooltip_ability_legion_commander_overwhelming_odds"					"Overwhelming Odds"
 		"DOTA_Tooltip_ability_legion_commander_press_the_attack"					"Press The Attack"
 		"DOTA_Tooltip_ability_legion_commander_moment_of_courage"					"Moment of Courage"
-		"DOTA_Tooltip_ability_legion_commander_duel"								"Duel"
+		"DOTA_Tooltip_ability_legion_commander_duel"								"Fair and honorable Duel"
 
 		//EMBER SPIRIT
 		"DOTA_Tooltip_ability_ember_spirit_searing_chains"							"Searing Chains"
