@@ -378,7 +378,6 @@
 		"DOTA_Tooltip_ability_life_stealer_rage"										"Rage"
 		"DOTA_Tooltip_ability_life_stealer_feast"										"Feast"
 		"DOTA_Tooltip_ability_life_stealer_open_wounds"									"Open Wounds"
-		"DOTA_Tooltip_ability_life_stealer_open_wounds_tooltip_range"					"RANGE:"
 		"DOTA_Tooltip_ability_life_stealer_infest"										"Infest"
 		"DOTA_Tooltip_ability_life_stealer_control"										"Control"
 		"DOTA_Tooltip_ability_life_stealer_consume"										"Consume"
@@ -452,8 +451,8 @@
 
 		//NEVERMORE
 		"DOTA_Tooltip_ability_nevermore_shadowraze1"									"Shadowraze"
-		"DOTA_Tooltip_ability_nevermore_shadowraze2"									"Shadowraze"
-		"DOTA_Tooltip_ability_nevermore_shadowraze3"									"Shadowraze"
+		"DOTA_Tooltip_ability_nevermore_shadowraze2"									"Shadowraaze"
+		"DOTA_Tooltip_ability_nevermore_shadowraze3"									"Shadowraaaze"
 		"DOTA_Tooltip_ability_nevermore_necromastery"									"Necromastery"
 		"DOTA_Tooltip_ability_nevermore_dark_lord"										"Presence of the Dark Lord"
 		"DOTA_Tooltip_ability_nevermore_requiem"										"Requiem of Souls"
@@ -732,7 +731,7 @@
 		"DOTA_Tooltip_ability_broodmother_spin_web"										"Spin Web"
 		"DOTA_Tooltip_ability_broodmother_spin_web_destroy"								"Destroy Spin Web"
 		"DOTA_Tooltip_ability_broodmother_incapacitating_bite"							"Incapacitating Bite"
-		"DOTA_Tooltip_ability_broodmother_insatiable_hunger"							"EAT THEM"
+		"DOTA_Tooltip_ability_broodmother_insatiable_hunger"							"Insatiable Hanger"
 
 		//BOUNTY HUNTER
 		"DOTA_Tooltip_ability_bounty_hunter_shuriken_toss"								"Shuriken Toss"
