@@ -1114,7 +1114,7 @@
 		"DOTA_Tooltip_ability_monkey_king_primal_spring_early"						"Early Ground Pound"
 		"DOTA_Tooltip_ability_monkey_king_jingu_mastery"							"The Jingu Bingu"
 		"DOTA_Tooltip_ability_monkey_king_mischief"									"Pro-Gamer Move"
-		"DOTA_Tooltip_ability_monkey_king_untransform"								"Monkeyfy"
+		"DOTA_Tooltip_ability_monkey_king_untransform"								"Return to Monke"
 		"DOTA_Tooltip_ability_monkey_king_wukongs_command"							"Kung-fu Command"
 
 		//Dark Willow
