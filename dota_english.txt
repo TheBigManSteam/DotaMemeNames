@@ -980,7 +980,7 @@
 	
 		// MEDUSA
 		"DOTA_Tooltip_ability_medusa_split_shot"									"Split Shot"
-		"DOTA_Tooltip_ability_medusa_mystic_snake"									"Mystic Snake"
+		"DOTA_Tooltip_ability_medusa_mystic_snake"									"Snek"
 		"DOTA_Tooltip_ability_medusa_mana_shield"									"Mana Shield"
 		"DOTA_Tooltip_ability_medusa_stone_gaze"									"Stone Gaze"
 	
