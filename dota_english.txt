@@ -124,7 +124,7 @@
 		"npc_dota_hero_pangolier"			"Hon Hon Hon"
 		"npc_dota_hero_monkey_king"			"Squinty Eyed Monkey Man"
 		"npc_dota_hero_hoodwink"			"Hot Topic Squirrel"
-		
+        "npc_dota_hero_dawnbreaker"         "Hammermommy"		
 
 		"random"							"YOLO"
 	
