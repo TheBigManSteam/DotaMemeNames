@@ -678,7 +678,7 @@
 		//VIPER
 		"DOTA_Tooltip_ability_viper_poison_attack"										"Icky Spit"
 		"DOTA_Tooltip_ability_viper_nethertoxin"										"Voop Goop"
-		"DOTA_Tooltip_ability_viper_nethertoxin_Lore"									"Voopa da goopa swoopa to boopa"
+		"DOTA_Tooltip_ability_viper_nethertoxin_Lore"									"Voopa da goopa swoopa to boopa da troopas"
 		"DOTA_Tooltip_ability_viper_corrosive_skin"										"Icky Skin"
 		"DOTA_Tooltip_ability_viper_viper_strike"										"Viper Strike"
 		
