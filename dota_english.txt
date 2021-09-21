@@ -195,10 +195,10 @@
 		"npc_dota_lycan_wolf2"							"Lycan Wolf"
 		"npc_dota_lycan_wolf3"							"Lycan Wolf"
 		"npc_dota_lycan_wolf4"							"Lycan Wolf"
-		"npc_dota_lone_druid_bear1"						"Fursona"
-		"npc_dota_lone_druid_bear2"						"Fursona"
-		"npc_dota_lone_druid_bear3"						"Fursona"
-		"npc_dota_lone_druid_bear4"						"Fursona"
+		"npc_dota_lone_druid_bear1"						"Yiff Partner"
+		"npc_dota_lone_druid_bear2"						"Yiff Partner"
+		"npc_dota_lone_druid_bear3"						"Yiff Partner"
+		"npc_dota_lone_druid_bear4"						"Yiff Partner"
 		"npc_dota_brewmaster_earth_1"					"Earth"
 		"npc_dota_brewmaster_earth_2"					"Earth"
 		"npc_dota_brewmaster_earth_3"					"Earth"
@@ -480,7 +480,7 @@
 		"DOTA_Tooltip_ability_skeleton_king_vampiric_aura"								"Vampiric Aura"
 		"DOTA_Tooltip_ability_skeleton_king_mortal_strike"								"Mortal Strike"
 		"DOTA_Tooltip_ability_skeleton_king_reincarnation"								"Reincarnation"
-		"DOTA_Tooltip_ability_skeleton_king_reincarnation_Lore"							"Death is my bitch"
+		"DOTA_Tooltip_ability_skeleton_king_reincarnation_lore"							"Death is my bitch"
 		
 		//DROW RANGER
 		"DOTA_Tooltip_ability_drow_ranger_frost_arrows"									"Frost Arrows"
@@ -605,7 +605,7 @@
 		"DOTA_Tooltip_ability_enigma_malefice"											"Malefice"
 		"DOTA_Tooltip_ability_enigma_demonic_conversion"								"Summon the Squad"
 		"DOTA_Tooltip_ability_enigma_midnight_pulse"									"Midnight Pulse"
-		"DOTA_Tooltip_ability_enigma_black_hole"										"Black Hooooole"
+		"DOTA_Tooltip_ability_enigma_black_hole"										"Black Hooooooole"
 		
 		//TINKER
 		"DOTA_Tooltip_ability_tinker_laser"												"Laser"
@@ -620,7 +620,7 @@
 		"DOTA_Tooltip_ability_sniper_assassinate"										"Blasto"
 		
 		//NECROLYTE
-		"DOTA_Tooltip_ability_necrolyte_death_pulse"									"Death Pulse"
+		"DOTA_Tooltip_ability_necrolyte_death_pulse"									"Cough"
 		"DOTA_Tooltip_ability_necrolyte_heartstopper_aura"								"Heartstopper Aura"
 		"DOTA_Tooltip_ability_necrolyte_sadist"											"Sadist"
 		"DOTA_Tooltip_ability_necrolyte_reapers_scythe"									"Reaper's Scythe"
@@ -677,7 +677,7 @@
 		//VIPER
 		"DOTA_Tooltip_ability_viper_poison_attack"										"Icky Spit"
 		"DOTA_Tooltip_ability_viper_nethertoxin"										"Voop Goop"
-		"DOTA_Tooltip_ability_viper_nethertoxin_Lore"									"Voopa da goopa swoopa and boopa da troopas"
+		"DOTA_Tooltip_ability_viper_nethertoxin_lore"									"Voopa da goopa swoopa and boopa da troopas"
 		"DOTA_Tooltip_ability_viper_corrosive_skin"										"Icky Skin"
 		"DOTA_Tooltip_ability_viper_viper_strike"										"Viper Strike"
 		
@@ -691,10 +691,11 @@
 		
 		//DRAGON KNIGHT
 		"DOTA_Tooltip_ability_dragon_knight_breathe_fire"								"Breathe Fire"
-		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_Lore"							"Humans can't breathe fire"
+		"DOTA_Tooltip_ability_dragon_knight_breathe_fire_lore"							"Humans can't breathe fire"
 		"DOTA_Tooltip_ability_dragon_knight_dragon_tail"								"Dragon Tail"
 		"DOTA_Tooltip_ability_dragon_knight_dragon_blood"								"Hard Blood"
 		"DOTA_Tooltip_ability_dragon_knight_elder_dragon_form"							"Elder Dragon Form"
+		"DOTA_Tooltip_ability_dragon_knight_elder_dragon_form_lore"							"Humans don't turn into dragons"
 		
 	
 
@@ -749,46 +750,47 @@
 		"DOTA_Tooltip_ability_bounty_hunter_track"										"Track"
 
 		//WEAVER
-		"DOTA_Tooltip_ability_weaver_the_swarm"								"The Swarm"
-		"DOTA_Tooltip_ability_weaver_shukuchi"								"Skuchi"
-		"DOTA_Tooltip_ability_weaver_geminate_attack"						"Geminate Attack"
-		"DOTA_Tooltip_ability_weaver_time_lapse"							"Time Lapse"
+		"DOTA_Tooltip_ability_weaver_the_swarm"											"The Swarm"
+		"DOTA_Tooltip_ability_weaver_shukuchi"											"Skuchi"
+		"DOTA_Tooltip_ability_weaver_geminate_attack"									"Geminate Attack"
+		"DOTA_Tooltip_ability_weaver_time_lapse"										"Time Lapse"
 
 
 		//JAKIRO
-		"DOTA_Tooltip_ability_jakiro_dual_breath"							"Dual Breath"
-		"DOTA_Tooltip_ability_jakiro_ice_path"								"Ice Path"
-		"DOTA_Tooltip_ability_jakiro_liquid_fire"							"Liquid Fire"
-		"DOTA_Tooltip_ability_jakiro_macropyre"								"Macropyre"
+		"DOTA_Tooltip_ability_jakiro_dual_breath"										"Dual Breath"
+		"DOTA_Tooltip_ability_jakiro_ice_path"											"Ice Path"
+		"DOTA_Tooltip_ability_jakiro_liquid_fire"										"Liquid Fire"
+		"DOTA_Tooltip_ability_jakiro_macropyre"											"Macropyre"
 
 
 		//BATRIDER
-		"DOTA_Tooltip_ability_batrider_sticky_napalm"						"Sticky Napalm"
-		"DOTA_Tooltip_ability_batrider_flamebreak"							"Flamebreak"
-		"DOTA_Tooltip_ability_batrider_firefly"								"Firefly"
-		"DOTA_Tooltip_ability_batrider_flaming_lasso"						"Flaming Lasso"
+		"DOTA_Tooltip_ability_batrider_sticky_napalm"									"Sticky Napalm"
+		"DOTA_Tooltip_ability_batrider_flamebreak"										"Flamebreak"
+		"DOTA_Tooltip_ability_batrider_firefly"											"Firefly"
+		"DOTA_Tooltip_ability_batrider_flaming_lasso"									"Flaming Lasso"
 
 
 		//CHEN
-		"DOTA_Tooltip_ability_chen_penitence"								"Penitence"
-		"DOTA_Tooltip_ability_chen_test_of_faith"							"Test of Faith"
-		"DOTA_Tooltip_ability_chen_test_of_faith_teleport"					"Test of Faith"
-		"DOTA_Tooltip_ability_chen_holy_persuasion"							"Holy Persuasion"
-		"DOTA_Tooltip_ability_chen_hand_of_god"								"Hand of God"
+		"DOTA_Tooltip_ability_chen_penitence"											"Penitence"
+		"DOTA_Tooltip_ability_chen_test_of_faith"										"Test of Faith"
+		"DOTA_Tooltip_ability_chen_test_of_faith_teleport"								"Test of Faith"
+		"DOTA_Tooltip_ability_chen_holy_persuasion"										"Holy Persuasion"
+		"DOTA_Tooltip_ability_chen_hand_of_god"											"Hand of God"
+		"DOTA_Tooltip_ability_chen_hand_of_god"											"Brought to you by Jesus"
 	
 		//SPECTRE
-		"DOTA_Tooltip_ability_spectre_spectral_dagger"						"Spectral Dagger"
-		"DOTA_Tooltip_ability_spectre_desolate"								"Desolate"
-		"DOTA_Tooltip_ability_spectre_dispersion"							"Dispersion"
-		"DOTA_Tooltip_ability_spectre_haunt"								"Haunt"
-		"DOTA_Tooltip_ability_spectre_reality"								"Reality"
+		"DOTA_Tooltip_ability_spectre_spectral_dagger"									"Spectral Dagger"
+		"DOTA_Tooltip_ability_spectre_desolate"											"Desolate"
+		"DOTA_Tooltip_ability_spectre_dispersion"										"Dispersion"
+		"DOTA_Tooltip_ability_spectre_haunt"											"Haunt"
+		"DOTA_Tooltip_ability_spectre_reality"											"Reality"
 
 		//DOOM BRINGER
-		"DOTA_Tooltip_ability_doom_bringer_devour"							"Devour"
-		"DOTA_Tooltip_ability_doom_bringer_devour_lore"						"I like how this heroes greatest contribution is having more money - Josh"
-		"DOTA_Tooltip_ability_doom_bringer_scorched_earth"					"Scorched Earth"
-		"DOTA_Tooltip_ability_doom_bringer_lvl_death"						"LVL? Death"
-		"DOTA_Tooltip_ability_doom_bringer_doom"							"Doom"
+		"DOTA_Tooltip_ability_doom_bringer_devour"										"Devour"
+		"DOTA_Tooltip_ability_doom_bringer_devour_lore"									"I like how this heroes greatest contribution is having more money - Josh"
+		"DOTA_Tooltip_ability_doom_bringer_scorched_earth"								"Scorched Earth"
+		"DOTA_Tooltip_ability_doom_bringer_lvl_death"									"LVL? Death"
+		"DOTA_Tooltip_ability_doom_bringer_doom"										"Doom"
 
 		//Ancient Apparition
 		"DOTA_Tooltip_ability_ancient_apparition_cold_feet"								"Cold Feet"
@@ -855,9 +857,9 @@
 
 		// Lycan
 		"DOTA_Tooltip_ability_lycan_summon_wolves"									"Summon Wolves"
-		"DOTA_Tooltip_ability_lycan_howl"											"Howl"
+		"DOTA_Tooltip_ability_lycan_howl"											"OwO"
 		"DOTA_Tooltip_ability_lycan_feral_impulse"									"Feral Impulse"
-		"DOTA_Tooltip_ability_lycan_shapeshift"										"Don Fursona"
+		"DOTA_Tooltip_ability_lycan_shapeshift"										"Don Fursuit"
 
 		// LONE DRUID
 		"DOTA_Tooltip_ability_lone_druid_spirit_bear"								"Summon Fursona"
@@ -866,7 +868,9 @@
 		"DOTA_Tooltip_ability_lone_druid_spirit_bear_demolish"						"Demolish"
 		"DOTA_Tooltip_ability_lone_druid_rabid"										"Rabid"
 		"DOTA_Tooltip_ability_lone_druid_synergy"									"Synergy"
-		"DOTA_Tooltip_ability_lone_druid_true_form"									"True Form"
+		"DOTA_Tooltip_ability_lone_druid_spirit_link"								"Notice Buldge"
+		"DOTA_Tooltip_ability_lone_druid_savage_roar"								"UwU"
+		"DOTA_Tooltip_ability_lone_druid_true_form"									"Don Fursona"
 		"DOTA_Tooltip_ability_lone_druid_true_form_druid"							"Druid Form"
 
 		//BREWMASTER
