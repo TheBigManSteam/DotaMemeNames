@@ -77,7 +77,7 @@
 		"npc_dota_hero_gyrocopter"			"Old Helicopterman"
 		"npc_dota_hero_alchemist"			"(((Alchemist)))"
 		"npc_dota_hero_invoker"				"InJoker"
-		"npc_dota_hero_silencer"			"Norton"
+		"npc_dota_hero_silencer"			"Nordstrom's"
 		"npc_dota_hero_obsidian_destroyer"	"Outhouse Defiler"
 		"npc_dota_hero_lycan"				"Rycan"
 		"npc_dota_hero_brewmaster"			"Druncle"
@@ -124,7 +124,7 @@
 		"npc_dota_hero_pangolier"			"Hon Hon Hon"
 		"npc_dota_hero_monkey_king"			"Squinty Eyed Monkey Man"
 		"npc_dota_hero_hoodwink"			"Hot Topic Squirrel"
-        "npc_dota_hero_dawnbreaker"         "Hammermommy"		
+        "npc_dota_hero_dawnbreaker"         "Hammermommy"
 
 		"random"							"YOLO"
 	
@@ -241,9 +241,9 @@
 		"npc_dota_creep_badguys_ranged"					"Ranged Creep"
 		"npc_dota_creep_badguys_ranged_upgraded"		"Super Ranged Creep"
 		"npc_dota_creep_badguys_ranged_upgraded_mega"	"Mega Ranged Creep"
-		"npc_dota_badguys_siege"						"Siege Creep"
-		"npc_dota_badguys_siege_upgraded"				"Super Siege Creep"
-		"npc_dota_badguys_siege_upgraded_mega"			"Mega Siege Creep"
+		"npc_dota_badguys_siege"						"Cartus"
+		"npc_dota_badguys_siege_upgraded"				"Super Cartus"
+		"npc_dota_badguys_siege_upgraded_mega"			"Mega Cartus"
 		
 		"npc_dota_creep_goodguys_melee"					"Melee Creep"
 		"npc_dota_creep_goodguys_melee_upgraded"		"Super Melee Creep"
@@ -251,9 +251,9 @@
 		"npc_dota_creep_goodguys_ranged"				"Ranged Creep"
 		"npc_dota_creep_goodguys_ranged_upgraded"		"Super Ranged Creep"
 		"npc_dota_creep_goodguys_ranged_upgraded_mega"	"Mega Ranged Creep"
-		"npc_dota_goodguys_siege"						"Siege Creep"
-		"npc_dota_goodguys_siege_upgraded"				"Super Siege Creep"
-		"npc_dota_goodguys_siege_upgraded_mega"			"Mega Siege Creep"
+		"npc_dota_goodguys_siege"						"Cartholomew"
+		"npc_dota_goodguys_siege_upgraded"				"Super Cartholomew"
+		"npc_dota_goodguys_siege_upgraded_mega"			"Mega Cartholomew"
 
 		// Neutral Creeps
 
@@ -352,9 +352,8 @@
 		
 		
 	
+		"DOTA_Modifier_Alert"		"[ALLIES] Got The: <font color='%s1'>%s3%s4</font>"
 
-	
-		
 		//ANTIMAGE
 		"DOTA_Tooltip_ability_antimage_mana_break"										"Mana Break"
 		"DOTA_Tooltip_ability_antimage_blink"											"Blink"
@@ -991,7 +990,7 @@
 		"DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged"					"Whirling Axes (Ranged)"
 		"DOTA_Tooltip_ability_troll_warlord_whirling_axes_melee"					"Whirling Axes (Melee)"
 		"DOTA_Tooltip_ability_troll_warlord_fervor"									"Fervor"
-		"DOTA_Tooltip_ability_troll_warlord_battle_trance"							"Bath Salts"
+		"DOTA_Tooltip_ability_troll_warlord_battle_trance"							"Too angry to die"
 		// the buff description (I think)
 		"DOTA_Tooltip_modifier_troll_warlord_battle_trance_Description"				"To angry to die"
 
@@ -1270,6 +1269,7 @@
 		"DOTA_Tooltip_Ability_item_point_booster"				"Point Booster"
 		"DOTA_Tooltip_Ability_item_poor_mans_shield"			"Poor Man's Shield"
 		"DOTA_Tooltip_Ability_item_power_treads"				"Power Shoe"
+		"DOTA_Tooltip_ability_item_power_treads_Lore"			"Double tap to go the other way"
 		"DOTA_Tooltip_Ability_item_power_treads_str"			"Red"
 		"DOTA_Tooltip_Ability_item_power_treads_agi"			"Green"
 		"DOTA_Tooltip_Ability_item_power_treads_int"			"Blue"
