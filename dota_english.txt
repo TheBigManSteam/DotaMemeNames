@@ -125,6 +125,7 @@
 		"npc_dota_hero_monkey_king"			"Squinty Eyed Monkey Man"
 		"npc_dota_hero_hoodwink"			"Hot Topic Squirrel"
         "npc_dota_hero_dawnbreaker"         "Hammermommy"
+        "npc_dota_hero_marci"				"Best Girl"
 
 		"random"							"YOLO"
 	
