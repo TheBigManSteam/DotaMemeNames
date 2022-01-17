@@ -352,9 +352,8 @@
 		"npc_dota_badguys_fillers"		"Building"
 		
 		
-
-		"DOTA_Modifier_Alert"			"[ALLIES] I Got DAT <font color='%s1'>%s2%s3</font>%s4"
-		"DOTA_HPMana_Alert_Self_Dead"	"[ALLIES] Contemplating the consequences of my actions for %s3 seconds!"
+	
+		//"DOTA_Modifier_Alert"		"[ALLIES] Got DAT: <font color='%s1'>%s3%s4</font>"
 
 		//ANTIMAGE
 		"DOTA_Tooltip_ability_antimage_mana_break"										"Mana Break"
@@ -574,7 +573,7 @@
 		//CLOCKWERK
 		"DOTA_Tooltip_ability_rattletrap_battery_assault"								"Domestic Abuse"
 		"DOTA_Tooltip_ability_rattletrap_power_cogs"									"CBT"
-		"DOTA_Tooltip_ability_rattletrap_power_cogs_description"						"Forms a barrier of energized cocks around Cockwerk, trapping any units that are near. Enemies outside the trap that touch a cock are knocked back and have their cocks crushed, losing health and mana. Once a cock has delivered a shock, it will power down. Cocks can be destroyed by enemy attacks, but Cockwerk can destroy them with just one."
+		"DOTA_Tooltip_ability_rattletrap_power_cogs_description"						"Forms a barrier of energized cocks around Cockwerk, trapping any units that are near. Enemies outside the trap that touch a cock are knocked back and have their cocks crushed, losing health and mana. Once a cock has delivered a shock, it will power down. Cocks can be destroyed by enemy attacks, but Cockwerk can destroy them with just one.
 		"Dota_Tooltip_ability_rattletrap_power_cogs_lore"								"Cock and ball torture (CBT), occasionally known as penis torture, dick torture, or male genitorture/male genital torture, is a sexual activity involving the application of pain or constriction to the penis or testicles. This may involve directly painful activities, such as genital piercing, wax play, genital spanking, squeezing, ball-busting, genital flogging, urethral play, tickle torture, erotic electrostimulation, kneeing or kicking."
 		"DOTA_Tooltip_ability_rattletrap_rocket_flare"									"Rocket Flare"
 		"DOTA_Tooltip_ability_rattletrap_hookshot"										"Hookshot"
