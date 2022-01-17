@@ -573,6 +573,7 @@
 		//CLOCKWERK
 		"DOTA_Tooltip_ability_rattletrap_battery_assault"								"Domestic Abuse"
 		"DOTA_Tooltip_ability_rattletrap_power_cogs"									"CBT"
+		"DOTA_Tooltip_ability_rattletrap_power_cogs_description"						"Forms a barrier of energized cocks around Cockwerk, trapping any units that are near. Enemies outside the trap that touch a cock are knocked back and have their cocks crushed, losing health and mana. Once a cock has delivered a shock, it will power down. Cocks can be destroyed by enemy attacks, but Cockwerk can destroy them with just one."
 		"Dota_Tooltip_ability_rattletrap_power_cogs_lore"								"Cock and ball torture (CBT), occasionally known as penis torture, dick torture, or male genitorture/male genital torture, is a sexual activity involving the application of pain or constriction to the penis or testicles. This may involve directly painful activities, such as genital piercing, wax play, genital spanking, squeezing, ball-busting, genital flogging, urethral play, tickle torture, erotic electrostimulation, kneeing or kicking."
 		"DOTA_Tooltip_ability_rattletrap_rocket_flare"									"Rocket Flare"
 		"DOTA_Tooltip_ability_rattletrap_hookshot"										"Hookshot"
@@ -616,6 +617,13 @@
 		"DOTA_Tooltip_ability_tinker_rearm"												"Rearm"
 		
 		//SNIPER
+		"DOTA_Tooltip_ability_sniper_shrapnel"											"Hoho Haha"
+		"DOTA_Tooltip_ability_sniper_headshot"											"Headshot"
+		"DOTA_Tooltip_ability_sniper_take_aim"											"Take Aim"
+		"DOTA_Tooltip_ability_sniper_assassinate"										"Blasto"
+		
+		//NECROLYTE
+		"DOTA_Tooltip_ability_necrolyte_death_pulse"									"Cough"
 		"DOTA_Tooltip_ability_sniper_shrapnel"											"Hoho Haha"
 		"DOTA_Tooltip_ability_sniper_headshot"											"Headshot"
 		"DOTA_Tooltip_ability_sniper_take_aim"											"Take Aim"
@@ -1180,11 +1188,11 @@
 		//"DOTA_Tooltip_ability_dawnbreaker_solarguardian"
 		
 		//Marci
-		"DOTA_Tooltip_ability_marci_dispose"										"Suplex"
-		//"DOTA_Tooltip_ability_marci_rebound"
-		//"DOTA_Tooltip_ability_marci_sidekick"
+		"DOTA_Tooltip_ability_marci_grapple"										"Suplex"
+		//"DOTA_Tooltip_ability_marci_lunge"
+		//"DOTA_Tooltip_ability_marci_guardian"
 		//"DOTA_Tooltip_ability_marci_unleash"
-		
+		"DOTA_Tooltip_ability_marci_unleash_lore"									"ARE YOU READY FOR THIS SUNDAY NIGHT WHEN WWE CHAMP BEST GIRL DEFENDS HER TITLE, IN THE WWE SUUPPERRRRRR SLAMMMMMMMMMM!! Right now you can earn this awesome pay-per-view event, for just $59.99!! AND GOODBYE TO ANYONE STANDING IN BEST GIRL'S WAY WHEN HE TAKES ON 6 MEN IN A STEEL CAGE CHUTES AND LADDERS MATCH AT WWE SUPERRRRR SLAMMMMM order now and take ten dollars for the low, low price of just $49.99!"
 		
 		//Items 
 		"DOTA_Tooltip_Ability_item_abyssal_blade"				"Melee Hero Item"
