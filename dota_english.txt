@@ -352,8 +352,9 @@
 		"npc_dota_badguys_fillers"		"Building"
 		
 		
-	
-		//"DOTA_Modifier_Alert"		"[ALLIES] Got DAT: <font color='%s1'>%s3%s4</font>"
+
+		"DOTA_Modifier_Alert"			"[ALLIES] I Got DAT <font color='%s1'>%s2%s3</font>%s4"
+		"DOTA_HPMana_Alert_Self_Dead"	"[ALLIES] Contemplating the consequences of my actions for %s3 seconds!"
 
 		//ANTIMAGE
 		"DOTA_Tooltip_ability_antimage_mana_break"										"Mana Break"
