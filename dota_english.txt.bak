@@ -64,7 +64,7 @@
 		"npc_dota_hero_huskar"				"Hooskar"
 		"npc_dota_hero_night_stalker"		"Night Fucker"
 		"npc_dota_hero_broodmother"			"Broodmilf"
-		"npc_dota_hero_bounty_hunter"		"Booty Hunter"
+		"npc_dota_hero_bounty_hunter"		"Mr.Walletman Bountybags"
 		"npc_dota_hero_weaver"				"Waver"
 		"npc_dota_hero_jakiro"				"Hakkiro"
 		"npc_dota_hero_batrider"			"Bat"
@@ -352,8 +352,9 @@
 		"npc_dota_badguys_fillers"		"Building"
 		
 		
-	
-		//"DOTA_Modifier_Alert"		"[ALLIES] Got DAT: <font color='%s1'>%s3%s4</font>"
+
+		"DOTA_Modifier_Alert"			"[ALLIES] I Got DAT <font color='%s1'>%s2%s3</font>%s4"
+		"DOTA_HPMana_Alert_Self_Dead"	"[ALLIES] Contemplating the consequences of my actions for %s3 seconds!"
 
 		//ANTIMAGE
 		"DOTA_Tooltip_ability_antimage_mana_break"										"Mana Break"
@@ -573,7 +574,7 @@
 		//CLOCKWERK
 		"DOTA_Tooltip_ability_rattletrap_battery_assault"								"Domestic Abuse"
 		"DOTA_Tooltip_ability_rattletrap_power_cogs"									"CBT"
-		"DOTA_Tooltip_ability_rattletrap_power_cogs_description"						"Forms a barrier of energized cocks around Cockwerk, trapping any units that are near. Enemies outside the trap that touch a cock are knocked back and have their cocks crushed, losing health and mana. Once a cock has delivered a shock, it will power down. Cocks can be destroyed by enemy attacks, but Cockwerk can destroy them with just one.
+		"DOTA_Tooltip_ability_rattletrap_power_cogs_description"						"Forms a barrier of energized cocks around Cockwerk, trapping any units that are near. Enemies outside the trap that touch a cock are knocked back and have their cocks crushed, losing health and mana. Once a cock has delivered a shock, it will power down. Cocks can be destroyed by enemy attacks, but Cockwerk can destroy them with just one."
 		"Dota_Tooltip_ability_rattletrap_power_cogs_lore"								"Cock and ball torture (CBT), occasionally known as penis torture, dick torture, or male genitorture/male genital torture, is a sexual activity involving the application of pain or constriction to the penis or testicles. This may involve directly painful activities, such as genital piercing, wax play, genital spanking, squeezing, ball-busting, genital flogging, urethral play, tickle torture, erotic electrostimulation, kneeing or kicking."
 		"DOTA_Tooltip_ability_rattletrap_rocket_flare"									"Rocket Flare"
 		"DOTA_Tooltip_ability_rattletrap_hookshot"										"Hookshot"
@@ -756,6 +757,7 @@
 		//BOUNTY HUNTER
 		"DOTA_Tooltip_ability_bounty_hunter_shuriken_toss"								"Shuriken Toss"
 		"DOTA_Tooltip_ability_bounty_hunter_jinada"										"Steal Lunch Money"
+		"DOTA_Tooltip_ability_bounty_hunter_jinada_lore"								"Gotcha Wallet"
 		"DOTA_Tooltip_ability_bounty_hunter_wind_walk"									"Shadow Walk"
 		"DOTA_Tooltip_ability_bounty_hunter_track"										"Track"
 
@@ -1267,7 +1269,8 @@
 		"DOTA_Tooltip_Ability_item_invis_sword"					"Shadow Blade"
 		"DOTA_Tooltip_Ability_item_javelin"						"Javelin"
 		"DOTA_Tooltip_Ability_item_lesser_crit"					"Crystalys"
-		"DOTA_Tooltip_Ability_item_lifesteal"					"Morbid Mask"
+		"DOTA_Tooltip_Ability_item_lifesteal"					"Morbin Mask"
+		"DOTA_Tooltip_Ability_item_lifesteal_Lore"				"It's Morbin' time"
 		"DOTA_Tooltip_Ability_item_sphere"						"Linken's Sphere"
 		"DOTA_Tooltip_Ability_item_maelstrom"					"Maelstrom"
 		"DOTA_Tooltip_Ability_item_magic_stick"					"Magic Stick"
@@ -1291,7 +1294,7 @@
 		"DOTA_Tooltip_Ability_item_orchid"						"Orchid Malevolence"
 		"DOTA_Tooltip_Ability_item_pers"						"Perseverance"
 		"DOTA_Tooltip_Ability_item_phase_boots"					"Phase Shoe"
-		"DOTA_Tooltip_Ability_item_pipe"						"Pipe of Insight"
+		"DOTA_Tooltip_Ability_item_pipe"						"Juul of Insight"
 		"DOTA_Tooltip_Ability_item_platemail"					"Platemail"
 		"DOTA_Tooltip_Ability_item_point_booster"				"Point Booster"
 		"DOTA_Tooltip_Ability_item_poor_mans_shield"			"Poor Man's Shield"
@@ -1303,6 +1306,7 @@
 		"DOTA_Tooltip_Ability_item_quarterstaff"				"Quarterstaff"
 		"DOTA_Tooltip_Ability_item_quelling_blade"				"Quelling Blade"
 		"DOTA_Tooltip_Ability_item_radiance"					"Radiance"
+		"DOTA_Tooltip_Ability_item_radiance_Lore"				"Ow hot"
 		"DOTA_Tooltip_Ability_item_rapier"						"Divine Rapier"
 		"DOTA_Tooltip_Ability_item_reaver"						"Reaver"
 		"DOTA_Tooltip_Ability_item_refresher"					"Refresher Orb"

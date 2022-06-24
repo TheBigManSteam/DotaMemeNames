@@ -64,7 +64,7 @@
 		"npc_dota_hero_huskar"				"Hooskar"
 		"npc_dota_hero_night_stalker"		"Night Fucker"
 		"npc_dota_hero_broodmother"			"Broodmilf"
-		"npc_dota_hero_bounty_hunter"		"Booty Hunter"
+		"npc_dota_hero_bounty_hunter"		"Mr.Walletman Bountybags"
 		"npc_dota_hero_weaver"				"Waver"
 		"npc_dota_hero_jakiro"				"Hakkiro"
 		"npc_dota_hero_batrider"			"Bat"
@@ -118,7 +118,7 @@
 		"npc_dota_hero_arc_warden"			"Self"
 		"npc_dota_hero_dark_willow"			"The Biggest Oversight ..."
 		"npc_dota_hero_mars"				"Disney Villain"
-		"npc_dota_hero_grimstroke"			"Vincent Van Gore"
+		"npc_dota_hero_grimstroke"			"Evil Bob Ross"
 		"npc_dota_hero_snapfire"			"Cookie Grandma"
 		"npc_dota_hero_void_spirit"			"Purple Ember"
 		"npc_dota_hero_pangolier"			"Hon Hon Hon"
@@ -757,6 +757,7 @@
 		//BOUNTY HUNTER
 		"DOTA_Tooltip_ability_bounty_hunter_shuriken_toss"								"Shuriken Toss"
 		"DOTA_Tooltip_ability_bounty_hunter_jinada"										"Steal Lunch Money"
+		"DOTA_Tooltip_ability_bounty_hunter_jinada_lore"								"Gotcha Wallet"
 		"DOTA_Tooltip_ability_bounty_hunter_wind_walk"									"Shadow Walk"
 		"DOTA_Tooltip_ability_bounty_hunter_track"										"Track"
 
@@ -827,6 +828,7 @@
 		"DOTA_Tooltip_ability_spirit_breaker_charge_of_darkness"					"AAAAAAAAAAAHHHHHHHH"
 		"DOTA_Tooltip_ability_spirit_breaker_empowering_haste"						"Empowering Haste"
 		"DOTA_Tooltip_ability_spirit_breaker_greater_bash"							"Greater Bash"
+		"DOTA_Tooltip_ability_spirit_breaker_greater_bash_lore"						"BASH"
 		"DOTA_Tooltip_ability_spirit_breaker_nether_strike"							"Nether Strike"
 
 		//ALCHEMIST
@@ -1141,6 +1143,7 @@
 
 		//Dark Willow
 		"DOTA_Tooltip_ability_dark_willow_bramble_maze"								"Tight Wooden Ass"		
+		"DOTA_Tooltip_ability_dark_willow_bramble_maze_lore"						"Worth killing a man in cold blood"
 		"DOTA_Tooltip_ability_dark_willow_shadow_realm"								"Crotch Grind"	
 		"DOTA_Tooltip_ability_dark_willow_cursed_crown"								"Throbbing Manhood"
 		"DOTA_Tooltip_ability_dark_willow_bedlam"									"Whisper Terribly Dirty Things"
