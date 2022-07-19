@@ -414,8 +414,8 @@
 		"DOTA_Tooltip_ability_vengefulspirit_nether_swap"								"Nether Swap"
 		
 		//WITCHDOCTOR
-		"DOTA_Tooltip_ability_witch_doctor_paralyzing_cask"								"Paralyzing Cask"
-		"DOTA_Tooltip_ability_witch_doctor_voodoo_restoration"							"Voodoo Restoration"
+		"DOTA_Tooltip_ability_witch_doctor_paralyzing_cask"								"Da Coconut"
+		"DOTA_Tooltip_ability_witch_doctor_voodoo_restoration"							"Jared Skill"
 		"DOTA_Tooltip_ability_witch_doctor_maledict"									"Maledick"
 		"DOTA_Tooltip_ability_witch_doctor_death_ward"									"Death Ward"
 
@@ -469,7 +469,7 @@
 		"DOTA_Tooltip_ability_sven_storm_bolt"											"Storm Hammer"
 		"DOTA_Tooltip_ability_sven_great_cleave"										"Great Cleave"
 		"DOTA_Tooltip_ability_sven_warcry"												"Warcry"
-		"DOTA_Tooltip_ability_sven_gods_strength"										"God's Strength"
+		"DOTA_Tooltip_ability_sven_gods_strength"										"Da Red Makes It Hit Harder"
 		
 		//PHANTOM ASSASSIN
 		"DOTA_Tooltip_ability_phantom_assassin_stifling_dagger"							"One Dagger and I'm Die"
@@ -482,7 +482,7 @@
 		"DOTA_Tooltip_ability_skeleton_king_vampiric_aura"								"Vampiric Aura"
 		"DOTA_Tooltip_ability_skeleton_king_mortal_strike"								"Mortal Strike"
 		"DOTA_Tooltip_ability_skeleton_king_reincarnation"								"Reincarnation"
-		"DOTA_Tooltip_ability_skeleton_king_reincarnation_lore"							"Death is my bitch"
+		"DOTA_Tooltip_ability_skeleton_king_reincarnation_lore"							"Death is my Bitch"
 		
 		//DROW RANGER
 		"DOTA_Tooltip_ability_drow_ranger_frost_arrows"									"Frost Arrows"
@@ -531,7 +531,7 @@
 		//CRYSTAL MAIDEN
 		"DOTA_Tooltip_ability_crystal_maiden_crystal_nova"								"Crystal Nova"
 		"DOTA_Tooltip_ability_crystal_maiden_frostbite"									"Frostbite"
-		"DOTA_Tooltip_ability_crystal_maiden_brilliance_aura"							"Arcane Aura"
+		"DOTA_Tooltip_ability_crystal_maiden_brilliance_aura"							"The Reason You Picked This Champ"
 		"DOTA_Tooltip_ability_crystal_maiden_freezing_field"							"Freezing Field"
 
 		//KUNKKA
@@ -559,14 +559,14 @@
 		"DOTA_Tooltip_ability_tiny_grow"												"Grow"
 		
 		//PUCK
-		"DOTA_Tooltip_ability_puck_illusory_orb"										"Illusory Orb"
+		"DOTA_Tooltip_ability_puck_illusory_orb"										"ORB"
 		"DOTA_Tooltip_ability_puck_waning_rift"											"Waning Rift"
 		"DOTA_Tooltip_ability_puck_phase_shift"											"Phase Shift"
 		"DOTA_Tooltip_ability_puck_dream_coil"											"Dream Coil"
 		"DOTA_Tooltip_ability_puck_ethereal_jaunt"										"Ethereal Jaunt"
 		
 		//DAZZLE
-		"DOTA_Tooltip_ability_dazzle_poison_touch"										"Poison Touch"
+		"DOTA_Tooltip_ability_dazzle_poison_touch"										"The Icky Sticky"
 		"DOTA_Tooltip_ability_dazzle_shallow_grave"										"Shallow Grave"
 		"DOTA_Tooltip_ability_dazzle_shadow_wave"										"Shadow Wave"
 		"DOTA_Tooltip_ability_dazzle_weave"												"Weave"
@@ -577,7 +577,7 @@
 		"DOTA_Tooltip_ability_rattletrap_power_cogs_description"						"Forms a barrier of energized cocks around Cockwerk, trapping any units that are near. Enemies outside the trap that touch a cock are knocked back and have their cocks crushed, losing health and mana. Once a cock has delivered a shock, it will power down. Cocks can be destroyed by enemy attacks, but Cockwerk can destroy them with just one."
 		"Dota_Tooltip_ability_rattletrap_power_cogs_lore"								"Cock and ball torture (CBT), occasionally known as penis torture, dick torture, or male genitorture/male genital torture, is a sexual activity involving the application of pain or constriction to the penis or testicles. This may involve directly painful activities, such as genital piercing, wax play, genital spanking, squeezing, ball-busting, genital flogging, urethral play, tickle torture, erotic electrostimulation, kneeing or kicking."
 		"DOTA_Tooltip_ability_rattletrap_rocket_flare"									"Rocket Flare"
-		"DOTA_Tooltip_ability_rattletrap_hookshot"										"Hookshot"
+		"DOTA_Tooltip_ability_rattletrap_hookshot"										"Other Hook Skill"
 
 		//LICH
 		"DOTA_Tooltip_ability_lich_frost_nova"											"Frost Blast"
@@ -592,7 +592,7 @@
 		"DOTA_Tooltip_ability_tidehunter_ravage"										"Ravage"
 		
 		//SHADOWSHAMAN
-		"DOTA_Tooltip_ability_shadow_shaman_ether_shock"								"Ether Shock"
+		"DOTA_Tooltip_ability_shadow_shaman_ether_shock"								"Zap!"
 		"DOTA_Tooltip_ability_shadow_shaman_voodoo"										"Chicken"
 		"DOTA_Tooltip_ability_shadow_shaman_shackles"									"Shackles"
 		"DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward"							"Sneks"
@@ -600,7 +600,7 @@
 		//RIKI
 		"DOTA_Tooltip_ability_riki_smoke_screen"										"Fat Vape Cloud"
 		"DOTA_Tooltip_ability_riki_backstab"											"Cloak and Dagger"
-		"DOTA_Tooltip_ability_riki_permanent_invisibility"								"Permanent Invisibility"
+		"DOTA_Tooltip_ability_riki_permanent_invisibility"								"Permanent Invincibility"
 		"DOTA_Tooltip_ability_riki_blink_strike"										"Blink Strike"
 		"Dota_Tooltip_ability_riki_tricks_of_the_trade"									"The Juicer"
 		"Dota_Tooltip_ability_riki_tricks_of_the_trade_lore"							"Please don't put me in The Juicer Mr.Richard.  -Jared"
@@ -649,7 +649,7 @@
 		"DOTA_Tooltip_ability_venomancer_venomous_gale"									"Bleh"
 		"DOTA_Tooltip_ability_venomancer_poison_sting"									"AIDS"
 		"DOTA_Tooltip_ability_venomancer_plague_ward"									"AIDS Ward"
-		"DOTA_Tooltip_ability_venomancer_poison_nova"									"Bleagargharha"
+		"DOTA_Tooltip_ability_venomancer_poison_nova"									"COVID-42"
 		
 		//FACELESS VOID
 		"DOTA_Tooltip_ability_faceless_void_time_walk"									"Time Walk"
@@ -689,7 +689,7 @@
 	
 		//LUNA
 		"DOTA_Tooltip_ability_luna_lucent_beam"											"Lucent Beam"
-		"DOTA_Tooltip_ability_luna_moon_glaive"											"Moon Glaive"
+		"DOTA_Tooltip_ability_luna_moon_glaive"											"Bouncy Fidget Spinner"
 		"DOTA_Tooltip_ability_luna_lunar_blessing"										"Lunar Blessing"
 		"DOTA_Tooltip_ability_luna_eclipse"												"Eclipse"
 		
@@ -736,7 +736,7 @@
 		
 		//NIGHT STALKER
 		"DOTA_Tooltip_ability_night_stalker_void"										"Void"
-		"DOTA_Tooltip_ability_night_stalker_crippling_fear"								"Crippling Fear"
+		"DOTA_Tooltip_ability_night_stalker_crippling_fear"								"Crippling Depression"
 		"DOTA_Tooltip_ability_night_stalker_hunter_in_the_night"						"Hunter in the Night"
 		"DOTA_Tooltip_ability_night_stalker_darkness"									"Darkness"
 
@@ -812,9 +812,9 @@
 
 
 		//GYROCOPTER
-		"DOTA_Tooltip_ability_gyrocopter_rocket_barrage"							"Rocket Barrage"
+		"DOTA_Tooltip_ability_gyrocopter_rocket_barrage"							"Farming Skill #1"
 		"DOTA_Tooltip_ability_gyrocopter_homing_missile"							"Homing Missile"
-		"DOTA_Tooltip_ability_gyrocopter_flak_cannon"								"Flak Cannon"
+		"DOTA_Tooltip_ability_gyrocopter_flak_cannon"								"Farming Skill #2"
 		"DOTA_Tooltip_ability_gyrocopter_call_down"									"Call Down"
 
 		//SPIRIT BREAKER
@@ -1121,7 +1121,7 @@
 		// Winterr Wyvern
 		"DOTA_Tooltip_ability_winter_wyvern_arctic_burn"							"Arctic Burn"
 		"DOTA_Tooltip_ability_winter_wyvern_splinter_blast"							"Splinter Blast"
-		"DOTA_Tooltip_ability_winter_wyvern_cold_embrace"							"Cold Embrace"
+		"DOTA_Tooltip_ability_winter_wyvern_cold_embrace"							"Cold Hug"
 		"DOTA_Tooltip_ability_winter_wyvern_winters_curse"							"Winter's Curse"		
 		
 		//Monkey King
@@ -1204,18 +1204,18 @@
 		"DOTA_Tooltip_Ability_item_blades_of_attack"			"Blades of Attack"
 		"DOTA_Tooltip_Ability_item_blade_of_alacrity"			"Blade of Alacrity"
 		"DOTA_Tooltip_Ability_item_blink"						"Blink Dagger"
-		"DOTA_Tooltip_Ability_item_bloodstone"					"Bloodstone"
+		"DOTA_Tooltip_Ability_item_bloodstone"					"Blyatstone"
 		"DOTA_Tooltip_Ability_item_boots"						"Shoe of Speed"
 		"DOTA_Tooltip_Ability_item_boots_of_elves"				"Band of Elvenskin"
-		"DOTA_Tooltip_Ability_item_bottle"						"Bottle"
-		"DOTA_Tooltip_Ability_item_bottle_double_damage"		"Rune: Double Damage"
+		"DOTA_Tooltip_Ability_item_bottle"						"Cask of Amontillado"
+		"DOTA_Tooltip_Ability_item_bottle_double_damage"		"Rune: Smack"
 		"DOTA_Tooltip_Ability_item_bottle_haste"				"Rune: Hustle"
-		"DOTA_Tooltip_Ability_item_bottle_illusion"				"Rune: Illusion"
+		"DOTA_Tooltip_Ability_item_bottle_illusion"				"Rune: Micro"
 		"DOTA_Tooltip_Ability_item_bottle_invisible"			"Rune: Sneak"
-		"DOTA_Tooltip_Ability_item_bottle_regeneration"			"Rune: Regeneration"
+		"DOTA_Tooltip_Ability_item_bottle_regeneration"			"Rune: Win Lane Win Game"
 		"DOTA_Tooltip_Ability_item_bottle_bounty"				"Rune: Money"
-		"DOTA_Tooltip_Ability_item_bracer"						"Bracer"
-		"DOTA_Tooltip_Ability_item_branches"					"Iron Branch"
+		"DOTA_Tooltip_Ability_item_bracer"						"Stat Dense Item"
+		"DOTA_Tooltip_Ability_item_branches"					"V.A.L.U.E."
 		"DOTA_Tooltip_Ability_item_broadsword"					"Broadsword"
 		"DOTA_Tooltip_Ability_item_buckler"						"Buckler"
 		"DOTA_Tooltip_Ability_item_butterfly"					"Butterfly"
@@ -1247,7 +1247,7 @@
 		"DOTA_Tooltip_Ability_item_eagle"						"Eaglesong"
 		"DOTA_Tooltip_Ability_item_energy_booster"				"Energy Booster"
 		"DOTA_Tooltip_Ability_item_ethereal_blade"				"Ethereal Blade"
-		"DOTA_Tooltip_Ability_item_flask"						"Healing Salve"
+		"DOTA_Tooltip_Ability_item_flask"						"I FUCKING LOVE LEAN"
 		"DOTA_Tooltip_Ability_item_force_staff"					"Push Stick"
 		"DOTA_Tooltip_Ability_item_gauntlets"					"Gauntlets of Strength"
 		"DOTA_Tooltip_Ability_item_gem"							"Gem of True Sight"
@@ -1268,15 +1268,15 @@
 		"DOTA_Tooltip_Ability_item_lifesteal_Lore"				"It's Morbin' time"
 		"DOTA_Tooltip_Ability_item_sphere"						"Linken's Sphere"
 		"DOTA_Tooltip_Ability_item_maelstrom"					"Maelstrom"
-		"DOTA_Tooltip_Ability_item_magic_stick"					"Magic Stick"
-		"DOTA_Tooltip_Ability_item_magic_wand"					"Magic Wand"
+		"DOTA_Tooltip_Ability_item_magic_stick"					"Twinkly Stick"
+		"DOTA_Tooltip_Ability_item_magic_wand"					"Twinkly Wand"
 		"DOTA_Tooltip_Ability_item_manta"						"Manta Style"
 		"DOTA_Tooltip_Ability_item_mantle"						"Mantle of Intelligence"
 		"DOTA_Tooltip_Ability_item_mask_of_madness"				"Mask of Madness"
 		"DOTA_Tooltip_Ability_item_mekansm"						"Mekansm"
 		"DOTA_Tooltip_Ability_item_mithril_hammer"				"Mithril Hammer"
 		"DOTA_Tooltip_Ability_item_mjollnir"					"Mojanger"
-		"DOTA_Tooltip_Ability_item_monkey_king_bar"				"Monkey King Bar"
+		"DOTA_Tooltip_Ability_item_monkey_king_bar"				"Jingu Bingu Bar"
 		"DOTA_Tooltip_Ability_item_mystic_staff"				"Mystic Staff"
 		"DOTA_Tooltip_Ability_item_necronomicon"				"Necronomicon"
 		"DOTA_Tooltip_Ability_item_necronomicon_2"				"Necronomicon+"
@@ -1320,7 +1320,7 @@
 		"DOTA_Tooltip_Ability_item_sange_and_yasha"				"Sange and Yasha"
 		"DOTA_Tooltip_Ability_item_satanic"						"Satanic"
 		"DOTA_Tooltip_Ability_item_sheepstick"					"Sheepstick"
-		"DOTA_Tooltip_Ability_item_shivas_guard"				"Shiva's Guard"
+		"DOTA_Tooltip_Ability_item_shivas_guard"				"Shiva's Gourd"
 		"DOTA_Tooltip_Ability_item_skadi"						"Eye of Skadi"
 		"DOTA_Tooltip_Ability_item_slippers"					"Slippers of Agility"
 		"DOTA_Tooltip_Ability_item_sobi_mask"					"Jared Mask"
@@ -1335,7 +1335,7 @@
 		"DOTA_Tooltip_Ability_item_tranquil_boots"				"Tranquil Shoe"
 		"DOTA_Tooltip_Ability_item_travel_boots"				"Shoe of Travel"
 		"DOTA_Tooltip_Ability_item_travel_boots_2"				"Shoes of Travel"
-		"DOTA_Tooltip_Ability_item_ultimate_orb"				"Ultimate Orb"
+		"DOTA_Tooltip_Ability_item_ultimate_orb"				"Ultimate Sphere"
 		"DOTA_Tooltip_Ability_item_ultimate_scepter"			"Aghanim's Scepter"
 		"DOTA_Tooltip_Ability_item_urn_of_shadows"				"Urn of Shadows"
 		"DOTA_Tooltip_Ability_item_vanguard"					"Vanguard"
