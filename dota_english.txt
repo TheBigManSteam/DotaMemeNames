@@ -126,6 +126,7 @@
 		"npc_dota_hero_hoodwink"			"Hot Topic Squirrel"
         "npc_dota_hero_dawnbreaker"         "Dongbreaker, the Hammermommy"
         "npc_dota_hero_marci"				"Best Girl"
+		//"npc_dota_hero_primal_beast"		"Primal Beast"
 
 		"random"							"YOLO"
 	
@@ -1010,8 +1011,8 @@
 		"DOTA_Tooltip_ability_centaur_double_edge"									"Double Edge"
 		"DOTA_Tooltip_ability_centaur_return"										"Return"
 		"DOTA_Tooltip_ability_centaur_stampede"										"Stampede"
-		"DOTA_Tooltip_ability_centaur_hitch_a_ride"									"Catch-A-Ride"
-		"DOTA_Tooltip_ability_centaur_hitch_a_ride_lore"							"Enjoy the ride and there's a Pimento Taco -- a  Pimetaco -- in the glove box"
+		"DOTA_Tooltip_ability_centaur_mount"									    "Catch-A-Ride"
+		"DOTA_Tooltip_ability_centaur_mount_lore"									"Enjoy the ride and there's a Pimento Taco -- a  Pimetaco -- in the glove box"
 				
 		// MAGNATAUR
 		"DOTA_Tooltip_ability_magnataur_shockwave"									"Shockwave"
@@ -1179,7 +1180,7 @@
 		//"DOTA_Tooltip_ability_hoodwink_scurry"
 		"DOTA_Tooltip_ability_hoodwink_sharpshooter"								"Most Powerful Shoot"
 		
-		//DawnBreaker
+		//Dawn Breaker
 		"DOTA_Tooltip_ability_dawnbreaker_starbreaker"								"Hammer Spin"
 		//"DOTA_Tooltip_ability_dawnbreaker_celestialhammer"
 		//"DOTA_Tooltip_ability_dawnbreaker_luminosity"
@@ -1191,6 +1192,16 @@
 		//"DOTA_Tooltip_ability_marci_guardian"
 		//"DOTA_Tooltip_ability_marci_unleash"
 		"DOTA_Tooltip_ability_marci_unleash_lore"									"ARE YOU READY FOR THIS SUNDAY NIGHT WHEN WWE CHAMP BEST GIRL DEFENDS HER TITLE, IN THE WWE SUUPPERRRRRR SLAMMMMMMMMMM!! Right now you can earn this awesome pay-per-view event, for just $59.99!! AND GOODBYE TO ANYONE STANDING IN BEST GIRL'S WAY WHEN HE TAKES ON 6 MEN IN A STEEL CAGE CHUTES AND LADDERS MATCH AT WWE SUPERRRRR SLAMMMMM order now and take ten dollars for the low, low price of just $49.99!"
+		
+		//Primal Beast
+		//"DOTA_Tooltip_ability_primal_beast_onslaught"								"Onslaught"
+		//"DOTA_Tooltip_ability_primal_beast_onslaught_release"						"Onslaught Release"
+		//"DOTA_Tooltip_ability_primal_beast_trample"								"Trample"
+		//"DOTA_Tooltip_ability_primal_beast_uproar"								"Uproar"
+		"DOTA_Tooltip_ability_primal_beast_rock_throw"								"ROCKS!"
+		//"DOTA_Tooltip_ability_primal_beast_pulverize"								"Pulverize"
+		
+		
 		
 		//Items 
 		"DOTA_Tooltip_Ability_item_abyssal_blade"				"Melee Champ Item"

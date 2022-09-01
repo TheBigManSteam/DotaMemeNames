@@ -76,7 +76,7 @@
 		"npc_dota_hero_spirit_breaker"		"Borker"
 		"npc_dota_hero_gyrocopter"			"Old Helicopterman"
 		"npc_dota_hero_alchemist"			"(((Alchemist)))"
-		"npc_dota_hero_invoker"				"InJoker"
+		"npc_dota_hero_invoker"				"Karl"
 		"npc_dota_hero_silencer"			"Nordstrom's"
 		"npc_dota_hero_obsidian_destroyer"	"Outhouse Defiler"
 		"npc_dota_hero_lycan"				"Rycan"
@@ -1005,12 +1005,13 @@
 		"DOTA_Tooltip_modifier_troll_warlord_battle_trance_Description"				"To angry to die"
 
 
-		// CENTAUR WARCHIEF
+		// CENTAUR Warrunner
 		"DOTA_Tooltip_ability_centaur_hoof_stomp"									"Step"
 		"DOTA_Tooltip_ability_centaur_double_edge"									"Double Edge"
 		"DOTA_Tooltip_ability_centaur_return"										"Return"
 		"DOTA_Tooltip_ability_centaur_stampede"										"Stampede"
-	
+		"DOTA_Tooltip_ability_centaur_mount"									    "Catch-A-Ride"
+		"DOTA_Tooltip_ability_centaur_mount_lore"									"Enjoy the ride and there's a Pimento Taco -- a  Pimetaco -- in the glove box"
 				
 		// MAGNATAUR
 		"DOTA_Tooltip_ability_magnataur_shockwave"									"Shockwave"
