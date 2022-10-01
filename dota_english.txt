@@ -847,6 +847,7 @@
 		"DOTA_Tooltip_ability_invoker_emp"											"EMP"
 		"DOTA_Tooltip_ability_invoker_alacrity"										"The Wrestling Spell"
         "DOTA_Tooltip_ability_invoker_alacrity_Description"						    "Increases attack speed and damage, but don't let that distract you from the fact that in 1998, The Undertaker threw Mankind off Hell In A Cell, and plummeted 16 ft through an announcer's table."
+        "DOTA_Tooltip_ability_invoker_alacrity_lore"						    "SUUUU-PER SLAAAM!"
 		"DOTA_Tooltip_ability_invoker_chaos_meteor"									"Meatball"
 		"DOTA_Tooltip_ability_invoker_sun_strike"									"Sun Strike-u"
 		"DOTA_Tooltip_ability_invoker_forge_spirit"									"Forge Spirit"
