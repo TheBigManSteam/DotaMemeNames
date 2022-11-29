@@ -1369,6 +1369,8 @@
 		"DOTA_Tooltip_Ability_item_veil_of_discord"				"Veil of Discord"
 		"DOTA_Tooltip_Ability_item_ring_of_aquila"				"Ring of Aquila"
 		"DOTA_Tooltip_Ability_item_shadow_amulet"				"Shadow Amulet"
+
+		"DOTA_Tooltip_Ability_item_pupils_gift"					"Apple"
 		
 		"DOTA_Tooltip_Ability_item_blitz_knuckles"				"485's"
 		"DOTA_Tooltip_Ability_item_holy_locket"					"That One Shitty Item That Only Jared Ever Buys"
