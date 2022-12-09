@@ -30,7 +30,7 @@
 		"npc_dota_hero_bloodseeker"			"Butt Seeker"
 		"npc_dota_hero_phantom_lancer"		"Cancer Lancer"
 		"npc_dota_hero_razor"				"Yaozor"
-		"npc_dota_hero_morphling"			"Shitty Wave"
+		"npc_dota_hero_morphling"			"Morbling"
 		"npc_dota_hero_zuus"				"Zus"
 		"npc_dota_hero_tiny"				"Tony"
 		"npc_dota_hero_puck"				"Puck The Magic Nonbinary Dragon"
@@ -70,7 +70,7 @@
 		"npc_dota_hero_batrider"			"Bat"
 		"npc_dota_hero_chen"				"Obama"
 		"npc_dota_hero_spectre"				"Spooktre"
-		"npc_dota_hero_doom_bringer"		"Dom"
+		"npc_dota_hero_doom_bringer"		"Doomer"
 		"npc_dota_hero_ancient_apparition"	"Kapparition"
 		"npc_dota_hero_ursa"				"Bear"
 		"npc_dota_hero_spirit_breaker"		"Borker"
@@ -126,19 +126,19 @@
 		"npc_dota_hero_hoodwink"			"Hot Topic Squirrel"
         "npc_dota_hero_dawnbreaker"         "Dongbreaker, the Hammermommy"
         "npc_dota_hero_marci"				"Best Girl"
-		//"npc_dota_hero_primal_beast"		"Pibbers"
+		"npc_dota_hero_primal_beast"		"Average Pitbull"
 
 		"random"							"YOLO"
 	
 		
 		// Other Names
-		"ent_dota_halloffame"							"Aegis of Champions"
+		"ent_dota_halloffame"							"Aegis of Nerds"
 		"npc_dota_creep"								"Minion"
 		"npc_dota_creep_lane"							"Lane Minion"
 		"npc_dota_creep_siege"							"Siege Engine"
 		"npc_dota_tower"								"Turret"
 		"npc_dota_barracks"								"Barracks"
-		"npc_dota_fort"									"The Ancient"
+		"npc_dota_fort"									"The Nexus"
 		"npc_dota_roshan"								"Roshan"
 		"npc_dota_roshanboo"							"Roshanboo"
 		"npc_dota_necronomicon_warrior_1"				"Necronomicon Warrior"
@@ -163,7 +163,7 @@
 		"npc_dota_flying_courier"						"Flying Unpaid Intern"
 		"npc_dota_furion_treant"						"Treant"
 		"npc_dota_invoker_forged_spirit"				"Forged Spirit"
-		"npc_dota_dark_troll_warlord_skeleton_warrior"	"Skeleton Warrior"
+		"npc_dota_dark_troll_warlord_skeleton_warrior"	"Skelerman Warrior"
 		"npc_dota_enraged_wildkin_tornado"				"Tornado"
 		"npc_dota_warlock_golem_1"						"Mangolem"
 		"npc_dota_warlock_golem_2"						"Mangolem"
@@ -171,8 +171,8 @@
 		"npc_dota_warlock_golem_scepter_1"				"Mangolem"
 		"npc_dota_warlock_golem_scepter_2"				"Mangolem"
 		"npc_dota_warlock_golem_scepter_3"				"Mangolem"
-		"npc_dota_broodmother_spiderling"				"Spiderling"
-		"npc_dota_broodmother_spiderite"				"Spiderite"
+		"npc_dota_broodmother_spiderling"				"Spoderling"
+		"npc_dota_broodmother_spiderite"				"Spoderite"
 		"npc_dota_witch_doctor_death_ward"				"Death Ward"
 		"npc_dota_shadow_shaman_ward_1"					"Snek Ward"
 		"npc_dota_shadow_shaman_ward_2"					"Snek Ward"
@@ -217,19 +217,19 @@
 		"npc_dota_unit_tombstone2"						"Gravestone"
 		"npc_dota_unit_tombstone3"						"Crypt"
 		"npc_dota_unit_tombstone4"						"Mausoleum"
-		"npc_dota_unit_undying_zombie"					"Undying Zombie"
-		"npc_dota_unit_undying_zombie_torso"			"Undying Zombie"
+		"npc_dota_unit_undying_zombie"					"Undying Zermble"
+		"npc_dota_unit_undying_zombie_torso"			"Undying Zermble"
 		"npc_dota_visage_familiar1"						"Goyle"
 		"npc_dota_visage_familiar2"						"Goyle"
 		"npc_dota_visage_familiar3"						"Goyle"
 		"npc_dota_observer_wards"						"Green Ward"
 		"npc_dota_sentry_wards"							"Blue Ward"
-		"npc_dota_gyrocopter_homing_missile"			"Homing Missile"
+		"npc_dota_gyrocopter_homing_missile"			"Jihadi Missile"
 		"npc_dota_tusk_frozen_sigil1"					"Frozen Sigil"
 		"npc_dota_tusk_frozen_sigil2"					"Frozen Sigil"
 		"npc_dota_tusk_frozen_sigil3"					"Frozen Sigil"
 		"npc_dota_tusk_frozen_sigil4"					"Frozen Sigil"
-		"npc_dota_elder_titan_ancestral_spirit"			"Astral Spirit"
+		"npc_dota_elder_titan_ancestral_spirit"			"Astral Stand"
 		"npc_dota_phoenix_sun"							"Phoenix Sun"
 		"npc_dota_techies_land_mine"					"IED"
 		"npc_dota_techies_stasis_trap"					"Stasis Trap"
@@ -346,11 +346,11 @@
 		"npc_dota_badguys_range_rax_mid"	"Ranged Barracks"
 		"npc_dota_badguys_range_rax_bot"	"Ranged Barracks"
 
-		"npc_dota_goodguys_fort"		"Radiant's Ancient"
-		"npc_dota_badguys_fort"			"Dire's Ancient"
+		"npc_dota_goodguys_fort"		"Radiant's Nexus"
+		"npc_dota_badguys_fort"			"Dire's Nexus"
 
-		"npc_dota_goodguys_fillers"		"Building"
-		"npc_dota_badguys_fillers"		"Building"
+		"npc_dota_goodguys_fillers"		"Hut"
+		"npc_dota_badguys_fillers"		"Hut"
 		
 		
 
@@ -386,7 +386,7 @@
 		"DOTA_Tooltip_ability_life_stealer_feast"										"Feast"
 		"DOTA_Tooltip_ability_life_stealer_open_wounds"									"Open Wounds"
 		"DOTA_Tooltip_ability_life_stealer_open_wounds_tooltip_range"					"RANGE:"
-		"DOTA_Tooltip_ability_life_stealer_infest"										"Infest"
+		"DOTA_Tooltip_ability_life_stealer_infest"										"Crawl Inside Asshole"
 		"DOTA_Tooltip_ability_life_stealer_control"										"Control"
 		"DOTA_Tooltip_ability_life_stealer_consume"										"Consume"
 		
@@ -476,7 +476,7 @@
 		"DOTA_Tooltip_ability_phantom_assassin_stifling_dagger"							"One Dagger and I'm Die"
 		"DOTA_Tooltip_ability_phantom_assassin_phantom_strike"							"Phantom Strike"
 		"DOTA_Tooltip_ability_phantom_assassin_blur"									"Blur"
-		"DOTA_Tooltip_ability_phantom_assassin_coup_de_grace"							"Coup de Grace"
+		"DOTA_Tooltip_ability_phantom_assassin_coup_de_grace"							"Coupe de Grace"
 		
 		//SKELETON KING
 		"DOTA_Tooltip_ability_skeleton_king_hellfire_blast"								"Hellfire Blast"
@@ -587,7 +587,7 @@
 		"DOTA_Tooltip_ability_lich_chain_frost"											"Chain Frost"
 		
 		//TIDEHUNTER
-		"DOTA_Tooltip_ability_tidehunter_gush"											"Gush"
+		"DOTA_Tooltip_ability_tidehunter_gush"											"Spit"
 		"DOTA_Tooltip_ability_tidehunter_kraken_shell"									"Kraken Shell"
 		"DOTA_Tooltip_ability_tidehunter_anchor_smash"									"Splish Splash"
 		"DOTA_Tooltip_ability_tidehunter_ravage"										"Ravage"
@@ -607,7 +607,7 @@
 		"Dota_Tooltip_ability_riki_tricks_of_the_trade_lore"							"Please don't put me in The Juicer Mr.Richard.  -Jared"
 		
 		//ENIGMA
-		"DOTA_Tooltip_ability_enigma_malefice"											"Malefice"
+		"DOTA_Tooltip_ability_enigma_malefice"											"Male-fist"
 		"DOTA_Tooltip_ability_enigma_demonic_conversion"								"Summon the Squad"
 		"DOTA_Tooltip_ability_enigma_midnight_pulse"									"Midnight Pulse"
 		"DOTA_Tooltip_ability_enigma_black_hole"										"Black Hooooooole"
@@ -739,10 +739,10 @@
 		"DOTA_Tooltip_ability_night_stalker_void"										"Void"
 		"DOTA_Tooltip_ability_night_stalker_crippling_fear"								"Crippling Depression"
 		"DOTA_Tooltip_ability_night_stalker_hunter_in_the_night"						"Hunter in the Night"
-		"DOTA_Tooltip_ability_night_stalker_darkness"									"Darkness"
+		"DOTA_Tooltip_ability_night_stalker_darkness"									"DARKNESS"
 
 		//BROODMOTHER
-		"DOTA_Tooltip_ability_broodmother_spawn_spiderlings"							"Spawn Spiderlings"
+		"DOTA_Tooltip_ability_broodmother_spawn_spiderlings"							"Spawn Children"
 		"DOTA_Tooltip_ability_broodmother_spin_web"										"Spin Web"
 		"DOTA_Tooltip_ability_broodmother_spin_web_destroy"								"Destroy Spin Web"
 		"DOTA_Tooltip_ability_broodmother_incapacitating_bite"							"Incapacitating Bite"
@@ -792,11 +792,11 @@
 		"DOTA_Tooltip_ability_spectre_reality"											"Reality"
 
 		//DOOM BRINGER
-		"DOTA_Tooltip_ability_doom_bringer_devour"										"Devour"
+		"DOTA_Tooltip_ability_doom_bringer_devour"										"Snack"
 		"DOTA_Tooltip_ability_doom_bringer_devour_lore"									"I like how this heroes greatest contribution is having more money - Josh"
 		"DOTA_Tooltip_ability_doom_bringer_scorched_earth"								"Scorched Earth"
 		"DOTA_Tooltip_ability_doom_bringer_lvl_death"									"LVL? Death"
-		"DOTA_Tooltip_ability_doom_bringer_doom"										"Doom"
+		"DOTA_Tooltip_ability_doom_bringer_doom"										"I'M GONNA DOOOOOOOOOOOOOM"
 
 		//Ancient Apparition
 		"DOTA_Tooltip_ability_ancient_apparition_cold_feet"								"Cold Feet"
@@ -814,7 +814,7 @@
 
 		//GYROCOPTER
 		"DOTA_Tooltip_ability_gyrocopter_rocket_barrage"							"Farming Skill #1"
-		"DOTA_Tooltip_ability_gyrocopter_homing_missile"							"Homing Missile"
+		"DOTA_Tooltip_ability_gyrocopter_homing_missile"							"Jihadi Missile"
 		"DOTA_Tooltip_ability_gyrocopter_flak_cannon"								"Farming Skill #2"
 		"DOTA_Tooltip_ability_gyrocopter_call_down"									"Call Down"
 
@@ -829,7 +829,7 @@
 		"DOTA_Tooltip_ability_alchemist_acid_spray"									"Acid Spray"
 		"DOTA_Tooltip_ability_alchemist_unstable_concoction_throw"					"Unstable Concoction Throw"
 		"DOTA_Tooltip_ability_alchemist_goblins_greed"								"(((Greed)))"
-		"DOTA_Tooltip_ability_alchemist_chemical_rage"								"Chemical Rage"
+		"DOTA_Tooltip_ability_alchemist_chemical_rage"								"Autistic Rage"
 
 		//INVOKER
 		"DOTA_Tooltip_ability_invoker_quas"											"Quas"
@@ -932,14 +932,14 @@
 		"DOTA_Tooltip_ability_visage_grave_chill"									"Grave Chill"
 		"DOTA_Tooltip_ability_visage_soul_assumption"								"Soul Assumption"
 		"DOTA_Tooltip_ability_visage_gravekeepers_cloak"							"Gravekeeper's Cloak"
-		"DOTA_Tooltip_ability_visage_summon_familiars"								"Summon Familiars"
+		"DOTA_Tooltip_ability_visage_summon_familiars"								"Summon Birds"
 
 		//UNDYING
-		"DOTA_Tooltip_ability_undying_decay"										"Decay"
+		"DOTA_Tooltip_ability_undying_decay"										"Steal Strength"
 		"DOTA_Tooltip_ability_undying_soul_rip"										"Soul Rip"
 		"DOTA_Tooltip_ability_undying_tombstone"									"Tombstone"
 		"DOTA_Tooltip_ability_undying_tombstone_zombie_deathstrike"					"Deathlust"
-		"DOTA_Tooltip_ability_undying_flesh_golem"									"Flesh Golem"
+		"DOTA_Tooltip_ability_undying_flesh_golem"									"BECOME BEEEEEG"
 
 
 		// RUBICK
@@ -966,7 +966,7 @@
 		"DOTA_Tooltip_ability_naga_siren_mirror_image"								"Mirror Image"
 		"DOTA_Tooltip_ability_naga_siren_ensnare"									"Ensnare"
 		"DOTA_Tooltip_ability_naga_siren_rip_tide"									"Rip Tide"
-		"DOTA_Tooltip_ability_naga_siren_song_of_the_siren"							"Song of the Siren"
+		"DOTA_Tooltip_ability_naga_siren_song_of_the_siren"							"Song of my People"
 
 		//KEEPER OF THE LIGHT
 		"DOTA_Tooltip_ability_keeper_of_the_light_illuminate"						"Dave Wave"
@@ -1199,10 +1199,10 @@
 		//Primal Beast
 		//"DOTA_Tooltip_ability_primal_beast_onslaught"								"Onslaught"
 		//"DOTA_Tooltip_ability_primal_beast_onslaught_release"						"Onslaught Release"
-		//"DOTA_Tooltip_ability_primal_beast_trample"								"Trample"
+		"DOTA_Tooltip_ability_primal_beast_trample"									"Maul"
 		//"DOTA_Tooltip_ability_primal_beast_uproar"								"Uproar"
 		"DOTA_Tooltip_ability_primal_beast_rock_throw"								"ROCKS!"
-		//"DOTA_Tooltip_ability_primal_beast_pulverize"								"Pulverize"
+		"DOTA_Tooltip_ability_primal_beast_pulverize"								"Devour Toddler"
 		
 		
 		
@@ -1218,7 +1218,7 @@
 		"DOTA_Tooltip_Ability_item_blade_mail"					"Blade Mail"
 		"DOTA_Tooltip_Ability_item_blades_of_attack"			"Blades of Attack"
 		"DOTA_Tooltip_Ability_item_blade_of_alacrity"			"Blade of Alacrity"
-		"DOTA_Tooltip_Ability_item_blink"						"Blink Dagger"
+		"DOTA_Tooltip_Ability_item_blink"						"Blink Daggeroo"
 		"DOTA_Tooltip_Ability_item_bloodstone"					"Blyatstone"
 		"DOTA_Tooltip_Ability_item_boots"						"Shoe of Speed"
 		"DOTA_Tooltip_Ability_item_boots_of_elves"				"Band of Elvenskin"
@@ -1236,7 +1236,7 @@
 		"DOTA_Tooltip_Ability_item_butterfly"					"Butterfly"
 		"DOTA_Tooltip_Ability_item_chainmail"					"Chainmail"
 		"DOTA_Tooltip_Ability_item_circlet"						"Circlet"
-		"DOTA_Tooltip_Ability_item_clarity"						"Clarity"
+		"DOTA_Tooltip_Ability_item_clarity"						"Claritar"
 		"DOTA_Tooltip_Ability_item_claymore"					"Claymore"
 		"DOTA_Tooltip_Ability_item_cloak"						"Cloak"
 		"DOTA_Tooltip_Ability_item_crimson_guard"				"Crimson Guard"
@@ -1276,14 +1276,14 @@
 		"DOTA_Tooltip_Ability_item_helm_of_the_dominator"		"Helm of the Dominator"
 		"DOTA_Tooltip_Ability_item_hood_of_defiance"			"Hood of Defiance"
 		"DOTA_Tooltip_Ability_item_hyperstone"					"Hyperstone"
-		"DOTA_Tooltip_Ability_item_invis_sword"					"Shadow Blade"
+		"DOTA_Tooltip_Ability_item_invis_sword"					"Coward Blade"
 		"DOTA_Tooltip_Ability_item_javelin"						"Javelin"
 		"DOTA_Tooltip_Ability_item_lesser_crit"					"Crystalys"
 		"DOTA_Tooltip_Ability_item_lifesteal"					"Morbin Mask"
 		"DOTA_Tooltip_Ability_item_lifesteal_Lore"				"It's Morbin' time"
 		"DOTA_Tooltip_Ability_item_sphere"						"Linken's Sphere"
 		"DOTA_Tooltip_Ability_item_maelstrom"					"Maelstrom"
-		"DOTA_Tooltip_Ability_item_magic_stick"					"Twinkly Stick"
+		"DOTA_Tooltip_Ability_item_magic_stick"					"Twinkly Sticc"
 		"DOTA_Tooltip_Ability_item_magic_wand"					"Twinkly Wand"
 		"DOTA_Tooltip_Ability_item_manta"						"Manta Style"
 		"DOTA_Tooltip_Ability_item_mantle"						"Mantle of Intelligence"
@@ -1330,10 +1330,10 @@
 		"DOTA_Tooltip_Ability_item_ring_of_regen"				"Ring of Regen"
 		"DOTA_Tooltip_Ability_item_robe"						"Robe of the Magi"
 		"DOTA_Tooltip_Ability_item_rod_of_atos"					"Rod of Atos"
-		"DOTA_Tooltip_Ability_item_sange"						"Sange"
+		"DOTA_Tooltip_Ability_item_sange"						"Sang"
 		"DOTA_Tooltip_Ability_item_heavens_halberd"				"Halebert"
-		"DOTA_Tooltip_Ability_item_sange_and_yasha"				"Sange and Yasha"
-		"DOTA_Tooltip_Ability_item_satanic"						"Satanic"
+		"DOTA_Tooltip_Ability_item_sange_and_yasha"				"Sang and Yasha"
+		"DOTA_Tooltip_Ability_item_satanic"						"Sanic"
 		"DOTA_Tooltip_Ability_item_sheepstick"					"Sheepstick"
 		"DOTA_Tooltip_Ability_item_shivas_guard"				"Shiva's Gourd"
 		"DOTA_Tooltip_Ability_item_skadi"						"Eye of Skadi"
@@ -1350,7 +1350,7 @@
 		"DOTA_Tooltip_Ability_item_tranquil_boots"				"Tranquil Shoe"
 		"DOTA_Tooltip_Ability_item_travel_boots"				"Shoe of Travel"
 		"DOTA_Tooltip_Ability_item_travel_boots_2"				"Shoes of Travel"
-		"DOTA_Tooltip_Ability_item_ultimate_orb"				"Ultimate Sphere"
+		"DOTA_Tooltip_Ability_item_ultimate_orb"				"Ultimate Ball"
 		"DOTA_Tooltip_Ability_item_ultimate_scepter"			"Aghanim's Scepter"
 		"DOTA_Tooltip_Ability_item_urn_of_shadows"				"Urn of Shadows"
 		"DOTA_Tooltip_Ability_item_vanguard"					"Vanguard"
@@ -1366,13 +1366,19 @@
 		"DOTA_Tooltop_Ability_item_guardian_greaves"			"Heal Shoe"
 		"DOTA_Tooltip_Ability_item_orb_of_venom"				"Orb of Venom"
 		"DOTA_Tooltip_Ability_item_ancient_janggo"				"Drum of Endurance"
+		"DOTA_Tooltip_Ability_item_ancient_janggo_lore"			"I FUCKING LOVE DRUMMING"
 		"DOTA_Tooltip_Ability_item_medallion_of_courage"		"Medallion of Courage"
 		"DOTA_Tooltip_Ability_item_smoke_of_deceit"				"Vape of Deceit"
 		"DOTA_Tooltip_Ability_item_veil_of_discord"				"Veil of Discord"
 		"DOTA_Tooltip_Ability_item_ring_of_aquila"				"Ring of Aquila"
-		"DOTA_Tooltip_Ability_item_shadow_amulet"				"Shadow Amulet"
+		"DOTA_Tooltip_Ability_item_shadow_amulet"				"Coward Amulet"
+		"DOTA_Tooltip_Ability_item_boots_of_bearing"			"Shoe of Bearing"
+		"DOTA_Tooltip_Ability_item_aeon_disk"					"Aeon Dick"
 
 		"DOTA_Tooltip_Ability_item_pupils_gift"					"Apple"
+		"DOTA_Tooltip_Ability_item_eye_of_the_vizier"			"Eye of the Dave"
+		"DOTA_Tooltip_Ability_item_dagger_of_ristul"			"Dagger of Ristuuuuuuuuuuul"
+		"DOTA_Tooltip_Ability_item_telescope"					"Tellerscope"
 		
 		"DOTA_Tooltip_Ability_item_blitz_knuckles"				"485's"
 		"DOTA_Tooltip_Ability_item_holy_locket"					"That One Shitty Item That Only Jared Ever Buys"
