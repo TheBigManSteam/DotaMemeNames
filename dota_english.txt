@@ -676,7 +676,7 @@
 		"DOTA_Tooltip_ability_templar_assassin_psi_blades"								"Psi Blades"
 		"DOTA_Tooltip_ability_templar_assassin_psionic_trap"							"Psionic Trap"
 		"DOTA_Tooltip_ability_templar_assassin_trap"									"Trap"
-		"DOTA_Tooltip_ability_templar_assassin_trap_Description"						"Springs the nearest trap, slowing nearby enemies."
+		"DOTA_Tooltip_ability_templar_assassin_trap_Description"						"Springs the nearest trap, slowing nearby enemies and turning them gay."
 		"DOTA_Tooltip_ability_templar_assassin_self_trap"								"Trap"
 
 		//VIPER
@@ -707,13 +707,13 @@
 		//DARK SEER
 		"DOTA_Tooltip_ability_dark_seer_vacuum"											"Vacuum"
 		"DOTA_Tooltip_ability_dark_seer_ion_shell"										"Ion Shell"
-		"DOTA_Tooltip_ability_dark_seer_surge"											"Surge"
+		"DOTA_Tooltip_ability_dark_seer_surge"											"Running in the 90s"
 		"DOTA_Tooltip_ability_dark_seer_wall_of_replica"								"Wall of Replica"
 		
 		//CLINKZ
 		"DOTA_Tooltip_ability_clinkz_strafe"											"Strafe"
 		"DOTA_Tooltip_ability_clinkz_searing_arrows"									"Searing Arrows"
-		"DOTA_Tooltip_ability_clinkz_wind_walk"											"Skeleton Walk"
+		"DOTA_Tooltip_ability_clinkz_wind_walk"											"Spooky Walk"
 		"DOTA_Tooltip_ability_clinkz_death_pact"										"Jonestown Vacation Ticket"
 
 		//ENCHANTRESS
@@ -809,7 +809,7 @@
 		"DOTA_Tooltip_ability_ursa_overpower"											"Overpower"
 		"DOTA_Tooltip_ability_ursa_overpower_duration_tooltip"							"DURATION:"
 		"DOTA_Tooltip_ability_ursa_fury_swipes"											"Fury Swipes"
-		"DOTA_Tooltip_ability_ursa_enrage"												"Enrage"
+		"DOTA_Tooltip_ability_ursa_enrage"												"Reeeeeee"
 
 
 		//GYROCOPTER
@@ -884,7 +884,7 @@
 		//BREWMASTER
 		"DOTA_Tooltip_ability_brewmaster_thunder_clap"								"Thunder Clap"
 		"DOTA_Tooltip_ability_brewmaster_drunken_haze"								"Drunken Haze"
-		"DOTA_Tooltip_ability_brewmaster_drunken_brawler"							"Drunken Brawler"
+		"DOTA_Tooltip_ability_brewmaster_drunken_brawler"							"Alcoholism"
 		"DOTA_Tooltip_ability_brewmaster_primal_split"								"Primal Split"
 		"DOTA_Tooltip_ability_brewmaster_earth_hurl_boulder"						"Hurl Boulder"
 		"DOTA_Tooltip_ability_brewmaster_earth_pulverize"							"Pulverize"
@@ -896,7 +896,7 @@
 		//SHADOW DEMON
 		"DOTA_Tooltip_ability_shadow_demon_disruption"								"Disruption"
 		"DOTA_Tooltip_ability_shadow_demon_soul_catcher"							"Soul Catcher"
-		"DOTA_Tooltip_ability_shadow_demon_shadow_poison"							"Shadow Poison"
+		"DOTA_Tooltip_ability_shadow_demon_shadow_poison"							"Ebola"
 		"DOTA_Tooltip_ability_shadow_demon_shadow_poison_release"					"Fist Pump"
 		"DOTA_Tooltip_ability_shadow_demon_demonic_purge"							"Demonic Purge"
 
@@ -959,7 +959,7 @@
 		//NYX ASSASSIN
 		"DOTA_Tooltip_ability_nyx_assassin_impale"									"Impale"
 		"DOTA_Tooltip_ability_nyx_assassin_mana_burn"								"Mana Burn"
-		"DOTA_Tooltip_ability_nyx_assassin_spiked_carapace"							"Spiked Carapace"
+		"DOTA_Tooltip_ability_nyx_assassin_spiked_carapace"							"Uno Reverso"
 		"DOTA_Tooltip_ability_nyx_assassin_vendetta"								"Vendetta"
 
 		//NAGA SIREN
