@@ -88,7 +88,7 @@
 		"npc_dota_hero_meepo"				"Mapo"
 		"npc_dota_hero_ogre_magi"			"The Tripod"
 		"npc_dota_hero_undying"				"Unduded"
-		"npc_dota_hero_rubick"				"Rubick"
+		"npc_dota_hero_rubick"				"FY"
 		"npc_dota_hero_disruptor"			"Distractor"
 		"npc_dota_hero_nyx_assassin"		"Nyx Nyx Nyx"
 		"npc_dota_hero_naga_siren"			"Fish Lady"
@@ -126,7 +126,7 @@
 		"npc_dota_hero_hoodwink"			"Hot Topic Squirrel"
         "npc_dota_hero_dawnbreaker"         "Dongbreaker, the Hammermommy"
         "npc_dota_hero_marci"				"Best Girl"
-		//"npc_dota_hero_primal_beast"		"Primal Beast"
+		//"npc_dota_hero_primal_beast"		"Pibbers"
 
 		"random"							"YOLO"
 	
@@ -1106,6 +1106,8 @@
 		"DOTA_Tooltip_ability_terrorblade_conjure_image"							"Conjure Image"
 		"DOTA_Tooltip_ability_terrorblade_metamorphosis"							"Real Ult"
 		"DOTA_Tooltip_ability_terrorblade_sunder"									"Fake Ult"
+		"DOTA_Tooltip_ability_terrorblade_terror_wave"								"Secret Ult"
+		"DOTA_Tooltip_ability_terrorblade_demon_zeal"								"Goblin Mode"
 
 		// ORACLE
 		"DOTA_Tooltip_ability_oracle_fortunes_end"									"Fortune's End"

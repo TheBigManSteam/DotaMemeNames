@@ -126,6 +126,7 @@
 		"npc_dota_hero_hoodwink"			"Hot Topic Squirrel"
         "npc_dota_hero_dawnbreaker"         "Dongbreaker, the Hammermommy"
         "npc_dota_hero_marci"				"Best Girl"
+		//"npc_dota_hero_primal_beast"		"Primal Beast"
 
 		"random"							"YOLO"
 	
@@ -842,6 +843,7 @@
 		"DOTA_Tooltip_ability_invoker_emp"											"EMP"
 		"DOTA_Tooltip_ability_invoker_alacrity"										"The Wrestling Spell"
         "DOTA_Tooltip_ability_invoker_alacrity_Description"						    "Increases attack speed and damage, but don't let that distract you from the fact that in 1998, The Undertaker threw Mankind off Hell In A Cell, and plummeted 16 ft through an announcer's table."
+        "DOTA_Tooltip_ability_invoker_alacrity_lore"						    "SUUUU-PER SLAAAM!"
 		"DOTA_Tooltip_ability_invoker_chaos_meteor"									"Meatball"
 		"DOTA_Tooltip_ability_invoker_sun_strike"									"Sun Strike-u"
 		"DOTA_Tooltip_ability_invoker_forge_spirit"									"Forge Spirit"
@@ -1179,7 +1181,7 @@
 		//"DOTA_Tooltip_ability_hoodwink_scurry"
 		"DOTA_Tooltip_ability_hoodwink_sharpshooter"								"Most Powerful Shoot"
 		
-		//DawnBreaker
+		//Dawn Breaker
 		"DOTA_Tooltip_ability_dawnbreaker_starbreaker"								"Hammer Spin"
 		//"DOTA_Tooltip_ability_dawnbreaker_celestialhammer"
 		//"DOTA_Tooltip_ability_dawnbreaker_luminosity"
@@ -1191,6 +1193,16 @@
 		//"DOTA_Tooltip_ability_marci_guardian"
 		//"DOTA_Tooltip_ability_marci_unleash"
 		"DOTA_Tooltip_ability_marci_unleash_lore"									"ARE YOU READY FOR THIS SUNDAY NIGHT WHEN WWE CHAMP BEST GIRL DEFENDS HER TITLE, IN THE WWE SUUPPERRRRRR SLAMMMMMMMMMM!! Right now you can earn this awesome pay-per-view event, for just $59.99!! AND GOODBYE TO ANYONE STANDING IN BEST GIRL'S WAY WHEN HE TAKES ON 6 MEN IN A STEEL CAGE CHUTES AND LADDERS MATCH AT WWE SUPERRRRR SLAMMMMM order now and take ten dollars for the low, low price of just $49.99!"
+		
+		//Primal Beast
+		//"DOTA_Tooltip_ability_primal_beast_onslaught"								"Onslaught"
+		//"DOTA_Tooltip_ability_primal_beast_onslaught_release"						"Onslaught Release"
+		//"DOTA_Tooltip_ability_primal_beast_trample"								"Trample"
+		//"DOTA_Tooltip_ability_primal_beast_uproar"								"Uproar"
+		"DOTA_Tooltip_ability_primal_beast_rock_throw"								"ROCKS!"
+		//"DOTA_Tooltip_ability_primal_beast_pulverize"								"Pulverize"
+		
+		
 		
 		//Items 
 		"DOTA_Tooltip_Ability_item_abyssal_blade"				"Melee Champ Item"
@@ -1357,6 +1369,8 @@
 		"DOTA_Tooltip_Ability_item_veil_of_discord"				"Veil of Discord"
 		"DOTA_Tooltip_Ability_item_ring_of_aquila"				"Ring of Aquila"
 		"DOTA_Tooltip_Ability_item_shadow_amulet"				"Shadow Amulet"
+
+		"DOTA_Tooltip_Ability_item_pupils_gift"					"Apple"
 		
 		"DOTA_Tooltip_Ability_item_blitz_knuckles"				"485's"
 		"DOTA_Tooltip_Ability_item_holy_locket"					"That One Shitty Item That Only Jared Ever Buys"
