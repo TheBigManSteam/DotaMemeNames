@@ -896,6 +896,7 @@
 		//SHADOW DEMON
 		"DOTA_Tooltip_ability_shadow_demon_disruption"								"Disruption"
 		"DOTA_Tooltip_ability_shadow_demon_soul_catcher"							"Soul Catcher"
+		"DOTA_Tooltip_ability_shadow_disseminate"									"Inseminate"
 		"DOTA_Tooltip_ability_shadow_demon_shadow_poison"							"Ebola"
 		"DOTA_Tooltip_ability_shadow_demon_shadow_poison_release"					"Fist Pump"
 		"DOTA_Tooltip_ability_shadow_demon_demonic_purge"							"Demonic Purge"
@@ -1150,7 +1151,7 @@
 		//Pangolier
 		"DOTA_Tooltip_ability_pangolier_swashbuckle"								"Mandolins"
 		"DOTA_Tooltip_ability_pangolier_shield_crash"								"Butt Smash"				
-		"DOTA_Tooltip_ability_pangolier_lucky_shot"									""French" Diginity"
+		"DOTA_Tooltip_ability_pangolier_lucky_shot"									"'French' Diginity"
 		"DOTA_Tooltip_ability_pangolier_rolling_thunder"							"Rolling Life"
 		
 		//Mars
