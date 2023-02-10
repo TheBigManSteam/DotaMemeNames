@@ -509,6 +509,7 @@
 		"DOTA_Tooltip_ability_axe_berserkers_call"										"Berserker's Call"
 		"DOTA_Tooltip_ability_axe_battle_hunger"										"Battle Hunger"
 		"DOTA_Tooltip_ability_axe_counter_helix"										"Spin to Win"
+		"DOTA_Tooltip_ability_axe_counter_helix_Description"										"Cut you down like cornwood"
 		"DOTA_Tooltip_ability_axe_culling_blade"										"Dunk on them"
 		
 		//PHANTOM LANCER
@@ -904,9 +905,9 @@
 
 		//CHAOS KNIGHT
 		"DOTA_Tooltip_ability_chaos_knight_chaos_bolt"								"Chaos Bolt"
-		"DOTA_Tooltip_ability_chaos_knight_reality_rift"							"Reality Rift"
+		"DOTA_Tooltip_ability_chaos_knight_reality_rift"							"Chaos Rift"
 		"DOTA_Tooltip_ability_chaos_knight_chaos_strike"							"Chaos Strike"
-		"DOTA_Tooltip_ability_chaos_knight_phantasm"								"Phantasm"
+		"DOTA_Tooltip_ability_chaos_knight_phantasm"								"Chaostasm"
 
 		//OGRE MAGI
 		"DOTA_Tooltip_ability_ogre_magi_fireblast"									"Fireblast"
