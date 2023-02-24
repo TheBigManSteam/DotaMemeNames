@@ -1202,7 +1202,7 @@
 		//"DOTA_Tooltip_ability_primal_beast_onslaught"								"Tromple"
 		//"DOTA_Tooltip_ability_primal_beast_onslaught_release"						"Tromple Release"
 		"DOTA_Tooltip_ability_primal_beast_trample"									"Tromple"
-		//"DOTA_Tooltip_ability_primal_beast_uproar"								"Uproar"
+		"DOTA_Tooltip_ability_primal_beast_uproar"									"Rwar"
 		"DOTA_Tooltip_ability_primal_beast_rock_throw"								"ROCKS!"
 		"DOTA_Tooltip_ability_primal_beast_pulverize"								"Devour Toddler"
 		
@@ -1266,6 +1266,7 @@
 		"DOTA_Tooltip_Ability_item_eagle"						"Eaglesong"
 		"DOTA_Tooltip_Ability_item_energy_booster"				"Energy Booster"
 		"DOTA_Tooltip_Ability_item_ethereal_blade"				"Ethereal Blade"
+		"Dota_Tooltip_Ability_item_faerie_fire"					"Randoming Reward"
 		"DOTA_Tooltip_Ability_item_flask"						"I FUCKING LOVE LEAN"
 		"DOTA_Tooltip_Ability_item_force_staff"					"Push Stick"
 		"DOTA_Tooltip_Ability_item_gauntlets"					"Gauntlets of Strength"
@@ -1372,17 +1373,20 @@
 		"DOTA_Tooltip_Ability_item_orb_of_venom"				"Orb of Venom"
 		"DOTA_Tooltip_Ability_item_ancient_janggo"				"Djembe of Endurance"
 		"DOTA_Tooltip_Ability_item_ancient_janggo_lore"			"I FUCKING LOVE DRUMMING"
-		"DOTA_Tooltip_Ability_item_medallion_of_courage"		"Medallion of Courage"
+		"DOTA_Tooltip_Ability_item_medallion_of_courage"		"Medallion of Jared"
 		"DOTA_Tooltip_Ability_item_smoke_of_deceit"				"Vape of Deceit"
-		"DOTA_Tooltip_Ability_item_veil_of_discord"				"Veil of Discord"
+		"DOTA_Tooltip_Ability_item_veil_of_discord"				"Jared Veil"
 		"DOTA_Tooltip_Ability_item_ring_of_aquila"				"Ring of Aquila"
 		"DOTA_Tooltip_Ability_item_shadow_amulet"				"Coward Amulet"
-		"DOTA_Tooltip_Ability_item_boots_of_bearing"			"Shoe of Bearing"
+		"DOTA_Tooltip_Ability_item_boots_of_bearing"			"Shoe of Jared-ing"
 		"DOTA_Tooltip_Ability_item_aeon_disk"					"Aeon Dick"
 		"DOTA_Tooltip_Ability_item_kaya_and_sange"				"Kaya and Sang"
 		"DOTA_Tooltip_Ability_item_yasha_and_kaya"				"Kayasha"
 		"DOTA_Tooltip_Ability_item_tome_of_aghanim"				"Book"
 		"DOTA_Tooltip_Ability_item_aghanims_shard"				"Aghsanim's Shard"
+		"DOTA_Tooltip_Ability_item_aghanims_shard"				"Aghsanim's Shard"
+		"DOTA_Tooltip_Ability_item_solar_crest"					"Crest of Jared"
+		"DOTA_Tooltip_Ability_item_meteor_hammer"				"Meme-tier Hammer"
 		
 
 		"DOTA_Tooltip_Ability_item_pupils_gift"					"Apple"
@@ -1392,7 +1396,7 @@
 		
 		"DOTA_Tooltip_Ability_item_blitz_knuckles"				"485's"
 		"DOTA_Tooltip_Ability_item_holy_locket"					"That One Shitty Item That Only Jared Ever Buys"
-		//"DOTA_Tooltip_Ability_item_enchanted_mango"			    ""
+		"DOTA_Tooltip_Ability_item_enchanted_mango"			    "Mana Based Value fruit"
 		
 	}
 }
