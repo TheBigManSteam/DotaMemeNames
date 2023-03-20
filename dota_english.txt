@@ -1193,8 +1193,8 @@
 		
 		//Marci
 		"DOTA_Tooltip_ability_marci_grapple"										"Suplex"
-		//"DOTA_Tooltip_ability_marci_lunge"
-		//"DOTA_Tooltip_ability_marci_guardian"
+		"DOTA_Tooltip_ability_marci_lunge"										"Steel Chair"
+		//"DOTA_Tooltip_ability_marci_guardian"										
 		//"DOTA_Tooltip_ability_marci_unleash"
 		"DOTA_Tooltip_ability_marci_unleash_lore"									"ARE YOU READY FOR THIS SUNDAY NIGHT WHEN WWE CHAMP BEST GIRL DEFENDS HER TITLE, IN THE WWE SUUPPERRRRRR SLAMMMMMMMMMM!! Right now you can earn this awesome pay-per-view event, for just $59.99!! AND GOODBYE TO ANYONE STANDING IN BEST GIRL'S WAY WHEN HE TAKES ON 6 MEN IN A STEEL CAGE CHUTES AND LADDERS MATCH AT WWE SUPERRRRR SLAMMMMM order now and take ten dollars for the low, low price of just $49.99!"
 		
@@ -1338,7 +1338,7 @@
 		"DOTA_Tooltip_Ability_item_sange"						"Sang"
 		"DOTA_Tooltip_Ability_item_spirit_vessel"				"Jared Vessel"
 		"DOTA_Tooltip_Ability_item_heavens_halberd"				"Halebert"
-		"DOTA_Tooltip_Ability_item_sange_and_yasha"				"Sang and Yasha"
+		"DOTA_Tooltip_Ability_item_sange_and_yasha"				"Sanasha"
 		"DOTA_Tooltip_Ability_item_satanic"						"Sanic"
 		"DOTA_Tooltip_Ability_item_sheepstick"					"Sheepstick"
 		"DOTA_Tooltip_Ability_item_shivas_guard"				"Shiva's Gourd"
@@ -1380,7 +1380,7 @@
 		"DOTA_Tooltip_Ability_item_shadow_amulet"				"Coward Amulet"
 		"DOTA_Tooltip_Ability_item_boots_of_bearing"			"Shoe of Jared-ing"
 		"DOTA_Tooltip_Ability_item_aeon_disk"					"Aeon Dick"
-		"DOTA_Tooltip_Ability_item_kaya_and_sange"				"Kaya and Sang"
+		"DOTA_Tooltip_Ability_item_kaya_and_sange"				"Kayang"
 		"DOTA_Tooltip_Ability_item_yasha_and_kaya"				"Kayasha"
 		"DOTA_Tooltip_Ability_item_tome_of_aghanim"				"Book"
 		"DOTA_Tooltip_Ability_item_aghanims_shard"				"Aghsanim's Shard"
