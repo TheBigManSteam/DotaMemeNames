@@ -109,7 +109,7 @@
 		"npc_dota_hero_legion_commander"	"Region Commander, Commander of the Region"
 		"npc_dota_hero_ember_spirit"		"Imba Spirt"
 		"npc_dota_hero_earth_spirit"		"Literally Who"
-		"npc_dota_hero_abyssal_underlord"	"Under Faggot"
+		"npc_dota_hero_abyssal_underlord"	"Ed Gainey"
 		"npc_dota_hero_phoenix"				"Scree"
 		"npc_dota_hero_terrorblade"			"EdgeBlade"
 		"npc_dota_hero_oracle"				"Orakrue"
@@ -127,6 +127,7 @@
         "npc_dota_hero_dawnbreaker"         "Dongbreaker, the Hammermommy"
         "npc_dota_hero_marci"				"Best Girl"
 		"npc_dota_hero_primal_beast"		"Average Pitbull"
+		"npc_dota_hero_muerta"				"Mierda"
 
 		"random"							"YOLO"
 	
@@ -1006,7 +1007,7 @@
 		"DOTA_Tooltip_ability_troll_warlord_fervor"									"Fervor"
 		"DOTA_Tooltip_ability_troll_warlord_battle_trance"							"Too angry to die"
 		// the buff description (I think)
-		"DOTA_Tooltip_modifier_troll_warlord_battle_trance_Description"				"To angry to die"
+		"DOTA_Tooltip_modifier_troll_warlord_battle_trance_Description"				"Too angry to die"
 
 
 		// CENTAUR Warrunner
@@ -1198,6 +1199,30 @@
 		//"DOTA_Tooltip_ability_marci_unleash"
 		"DOTA_Tooltip_ability_marci_unleash_lore"									"ARE YOU READY FOR THIS SUNDAY NIGHT WHEN WWE CHAMP BEST GIRL DEFENDS HER TITLE, IN THE WWE SUUPPERRRRRR SLAMMMMMMMMMM!! Right now you can earn this awesome pay-per-view event, for just $59.99!! AND GOODBYE TO ANYONE STANDING IN BEST GIRL'S WAY WHEN HE TAKES ON 6 MEN IN A STEEL CAGE CHUTES AND LADDERS MATCH AT WWE SUPERRRRR SLAMMMMM order now and take ten dollars for the low, low price of just $49.99!"
 		
+		// Muerta
+		"DOTA_Tooltip_ability_muerta_dead_shot"									"360 No Scope"
+		//"DOTA_Tooltip_ability_muerta_the_calling"								"The Calling"
+		//"DOTA_Tooltip_ability_muerta_gunslinger"								"Gunslinger"
+		"DOTA_Tooltip_ability_muerta_pierce_the_veil"							"Going Ghost"
+		"DOTA_Tooltip_ability_muerta_pierce_the_veil_lore"							"Young Danny Fenton, he was just 14
+When his parents built a very strange machine
+It was designed to view a world unseen
+(He's gonna catch 'em all 'cause he's Danny Phantom)
+When it didn't quite work, his folks, they just quit
+But then Danny took a look inside of it
+There was a great big flash, everything just changed
+His molecules got all rearranged
+(Phantom, phantom)
+When he first woke up, he realized he had snow-white hair
+And glowing green eyes
+He could walk through walls, disappear, and fly
+He was much more unique than the other guys
+It was then that he knew what he had to do
+He had to stop all the ghosts who were coming through
+He's here to fight for me and you
+He's gonna catch 'em all 'cause he's Danny Phantom"
+		"DOTA_Tooltip_modifier_muerta_pierce_the_veil_Description"				"Going Ghost"
+
 		//Primal Beast
 		//"DOTA_Tooltip_ability_primal_beast_onslaught"								"Tromple"
 		//"DOTA_Tooltip_ability_primal_beast_onslaught_release"						"Tromple Release"
