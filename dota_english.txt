@@ -1421,7 +1421,10 @@ He's gonna catch 'em all 'cause he's Danny Phantom"
 		
 		"DOTA_Tooltip_Ability_item_blitz_knuckles"				"485's"
 		"DOTA_Tooltip_Ability_item_holy_locket"					"That One Shitty Item That Only Jared Ever Buys"
-		"DOTA_Tooltip_Ability_item_enchanted_mango"			    "Mana Based Value fruit"
+		"DOTA_Tooltip_Ability_item_enchanted_mango"				"Mana Based Value fruit"
+		"DOTA_Tooltip_Ability_item_famango"						"Fruit"
+		"DOTA_Tooltip_Ability_item_great_famango"				"Big Fruit"
+		"DOTA_Tooltip_Ability_item_greater_famango"				"Gigafruit"
 		
 	}
 }
