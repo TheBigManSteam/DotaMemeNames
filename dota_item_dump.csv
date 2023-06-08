@@ -2,7 +2,7 @@ ItemID,InternalName,EnglishName
 1,item_blink,Blink Daggeroo
 2,item_blades_of_attack,Blades of Attack
 3,item_broadsword,Broadsword
-4,item_chainmail,Chainmail
+4,item_chainmail,Shitty Platemail
 5,item_claymore,Claymore
 6,item_helm_of_iron_will,Helm of Iron Will
 7,item_javelin,Javelin
@@ -52,7 +52,7 @@ ItemID,InternalName,EnglishName
 52,item_eagle,Eaglesong
 53,item_reaver,Reaver
 54,item_relic,Sacred Relic
-55,item_hyperstone,Hyperstone
+55,item_hyperstone,Methstone
 56,item_ring_of_health,Ring of Health
 57,item_void_stone,Void Stone
 58,item_mystic_staff,Mystic Staff
@@ -89,7 +89,7 @@ ItemID,InternalName,EnglishName
 97,item_recipe_orchid,Orchid Malevolence Recipe
 98,item_orchid,Orchid Malevolence
 99,item_recipe_cyclone,Eul's Scepter Recipe
-100,item_cyclone,Yule's
+100,item_cyclone,Yule's Stick of Divspinnity
 101,item_recipe_force_staff,Force Staff Recipe
 102,item_force_staff,Push Stick
 103,item_recipe_dagon,Dagon Recipe
@@ -110,11 +110,10 @@ ItemID,InternalName,EnglishName
 121,item_bloodstone,Blyatstone
 122,item_recipe_sphere,Linken's Sphere Recipe
 123,item_sphere,Linken's Sphere
-125,item_vanguard,Vanguard
+125,item_vanguard,Mannguard
 126,item_recipe_blade_mail,Blade Mail Recipe
 127,item_blade_mail,Blade Mail
 129,item_soul_booster,Soul Booster
-131,item_hood_of_defiance,Hood of Defiance
 133,item_rapier,Divine Rapier
 134,item_recipe_monkey_king_bar,Monkey King Bar Recipe
 135,item_monkey_king_bar,Jingu Bingu Bar
@@ -124,7 +123,8 @@ ItemID,InternalName,EnglishName
 141,item_greater_crit,Deadalus
 142,item_recipe_basher,Skull Basher Recipe
 143,item_basher,Skull Basher
-145,item_bfury,Battle Fury
+144,item_recipe_bfury,Battle Fury Recipe
+145,item_bfury,PvE Jungle Item
 146,item_recipe_manta,Manta Style Recipe
 147,item_manta,Manta Style
 148,item_recipe_lesser_crit,Crystalys Recipe
@@ -132,7 +132,7 @@ ItemID,InternalName,EnglishName
 150,item_recipe_armlet,Armlet of Mordiggian Recipe
 151,item_armlet,Omelette of Mordiggian
 152,item_invis_sword,Coward Blade
-154,item_sange_and_yasha,Sang and Yasha
+154,item_sange_and_yasha,Sanasha
 156,item_satanic,Sanic
 157,item_recipe_mjollnir,Mjollnir Recipe
 158,item_mjollnir,Mojanger
@@ -140,7 +140,7 @@ ItemID,InternalName,EnglishName
 161,item_recipe_sange,Sange Recipe
 162,item_sange,Sang
 163,item_recipe_helm_of_the_dominator,Helm of the Dominator Recipe
-164,item_helm_of_the_dominator,Helm of the Dominator
+164,item_helm_of_the_dominator,Helm of the Dominatrix
 166,item_maelstrom,Maelstrom
 168,item_desolator,Desorator
 169,item_recipe_yasha,Yasha Recipe
@@ -155,11 +155,11 @@ ItemID,InternalName,EnglishName
 180,item_arcane_boots,Magic Shoe
 181,item_orb_of_venom,Orb of Venom
 184,item_recipe_ancient_janggo,Drum of Endurance Recipe
-185,item_ancient_janggo,Bongo of Endurance
-187,item_medallion_of_courage,Medallion of Courage
+185,item_ancient_janggo,Djembe of Endurance
+187,item_medallion_of_courage,Medallion of Jared
 188,item_smoke_of_deceit,Vape of Deceit
 189,item_recipe_veil_of_discord,Veil of Discord Recipe
-190,item_veil_of_discord,Veil of Discord
+190,item_veil_of_discord,Jared Veil
 201,item_dagon_2,Daagoon
 202,item_dagon_3,Daaagooon
 203,item_dagon_4,Daaaagoooon
@@ -173,23 +173,25 @@ ItemID,InternalName,EnglishName
 212,item_ring_of_aquila,Ring of Aquila
 214,item_tranquil_boots,Tranquil Shoe
 215,item_shadow_amulet,Coward Amulet
-216,item_enchanted_mango,Enchanted Mango
+216,item_enchanted_mango,Mana Based Value fruit
 218,item_ward_dispenser,Observer and Sentry Wards
 220,item_travel_boots_2,Shoes of Travel
+221,item_recipe_lotus_orb,Lotus Orb Recipe
 222,item_recipe_meteor_hammer,Meteor Hammer Recipe
-223,item_meteor_hammer,Meteor Hammer
+223,item_meteor_hammer,Meme-tier Hammer
 225,item_nullifier,Nullifier
 226,item_lotus_orb,Lotus Orb
 227,item_recipe_solar_crest,Solar Crest Recipe
-229,item_solar_crest,Solar Crest
+228,item_recipe_octarine_core,Octarine Core Recipe
+229,item_solar_crest,Crest of Jared
 230,item_recipe_guardian_greaves,Guardian Greaves Recipe
 231,item_guardian_greaves,Guardian Greaves
 232,item_aether_lens,Aether Lens
 233,item_recipe_aether_lens,Aether Lens Recipe
-234,item_recipe_dragon_lance,
+234,item_recipe_dragon_lance,Dragon Lance Recipe
 235,item_octarine_core,Octarine Core
 236,item_dragon_lance,Dragon Lance
-237,item_faerie_fire,Faerie Fire
+237,item_faerie_fire,Randoming Reward
 239,item_iron_talon,Iron Talon
 240,item_blight_stone,Blight Stone
 241,item_tango_single,Tree Juice (Shared)
@@ -206,7 +208,6 @@ ItemID,InternalName,EnglishName
 254,item_glimmer_cape,Glimmer Cape
 255,item_recipe_aeon_disk,Aeon Disk Recipe
 256,item_aeon_disk,Aeon Dick
-257,item_tome_of_knowledge,Tome of Knowledge
 258,item_recipe_kaya,Kaya Recipe
 259,item_kaya,Kaya
 260,item_refresher_shard,Refresher Shard
@@ -220,9 +221,9 @@ ItemID,InternalName,EnglishName
 269,item_holy_locket,That One Shitty Item That Only Jared Ever Buys
 270,item_recipe_ultimate_scepter_2,Aghanim's Blessing Recipe
 271,item_ultimate_scepter_2,Aghanim's Blessing
-273,item_kaya_and_sange,Kaya and Sange
+273,item_kaya_and_sange,Kayang
 275,item_recipe_trident,Trident Recipe
-277,item_yasha_and_kaya,Yasha and Kaya
+277,item_yasha_and_kaya,Kayasha
 286,item_flying_courier,Flying Courier
 287,item_keen_optic,Keen Optic
 288,item_grove_bow,Grove Bow
@@ -243,7 +244,7 @@ ItemID,InternalName,EnglishName
 304,item_ironwood_tree,Ironwood Tree
 305,item_royal_jelly,Royal Jelly
 306,item_pupils_gift,Apple
-307,item_tome_of_aghanim,Tome of Aghanim
+307,item_tome_of_aghanim,Book
 308,item_repair_kit,Repair Kit
 309,item_mind_breaker,Mind Breaker
 310,item_third_eye,Third Eye
@@ -257,13 +258,11 @@ ItemID,InternalName,EnglishName
 330,item_witless_shako,Witless Shako
 331,item_vambrace,Vambrace
 334,item_imp_claw,Imp Claw
-335,item_flicker,Flicker
 336,item_spy_gadget,Telescope
 349,item_arcane_ring,Arcane Ring
 354,item_ocean_heart,Ocean Heart
 355,item_broom_handle,Broom Handle
 356,item_trusty_shovel,Trusty Shovel
-357,item_nether_shawl,Nether Shawl
 358,item_dragon_scale,Dragon Scale
 359,item_essence_ring,Essence Ring
 360,item_clumsy_net,Clumsy Net
@@ -316,8 +315,8 @@ ItemID,InternalName,EnglishName
 606,item_recipe_arcane_blink,Arcane Blink Recipe
 607,item_recipe_swift_blink,Swift Blink Recipe
 608,item_recipe_overwhelming_blink,Overwhelming Blink Recipe
-609,item_aghanims_shard,Aghanim's Shard
-610,item_wind_waker,Wind Waker
+609,item_aghanims_shard,Aghsanim's Shard
+610,item_wind_waker,Jared's Stick of Divspinnity
 612,item_recipe_wind_waker,Wind Waker Recipe
 633,item_recipe_helm_of_the_overlord,Helm of the Overlord Recipe
 635,item_helm_of_the_overlord,Helm of the Overlord
@@ -351,18 +350,69 @@ ItemID,InternalName,EnglishName
 839,item_fortitude_ring,Ring of Fortitude
 840,item_pogo_stick,Tumbler's Toy
 849,item_mechanical_arm,Mechanical Arm
-907,item_recipe_wraith_pact,Wraith Pact Recipe
-908,item_wraith_pact,Wraith Pact
 910,item_recipe_revenants_brooch,Revenant's Brooch Recipe
 911,item_revenants_brooch,Revenant's Brooch
 930,item_recipe_boots_of_bearing,Boots of Bearing Recipe
-931,item_boots_of_bearing,Shoe of Bearing
+931,item_boots_of_bearing,Shoe of Jared-ing
+938,item_slime_vial,
+939,item_harpoon,Harpoon
+940,item_wand_of_the_brine,Wand of the Brine
 945,item_seeds_of_serenity,Seeds of Serenity
 946,item_lance_of_pursuit,Lance of Pursuit
 947,item_occult_bracelet,Occult Bracelet
+948,item_tome_of_omniscience,
+949,item_ogre_seal_totem,Ogre Seal Totem
+950,item_defiant_shell,Defiant Shell
+968,item_arcane_scout,
+969,item_barricade,
+990,item_eye_of_the_vizier,Eye of the Dave
+998,item_manacles_of_power,
+1000,item_bottomless_chalice,
+1017,item_wand_of_sanctitude,
 1028,item_mutation_tombstone,Tombstone
 1029,item_super_blink,Super Blink Dagger
 1030,item_pocket_tower,Pocket Tower
 1032,item_pocket_roshan,Pocket Roshan
+1076,item_specialists_array,Specialist's Array
+1077,item_dagger_of_ristul,Dagger of Ristuuuuuuuuuuul
+1090,item_muertas_gun,Mercy & Grace
+1091,item_samurai_tabi,Samurai Tabi
+1092,item_recipe_hermes_sandals,Hermes Sandals Recipe
+1093,item_hermes_sandals,Hermes Sandals
+1094,item_recipe_lunar_crest,Lunar Crest Recipe
+1095,item_lunar_crest,Lunar Crest
+1096,item_recipe_disperser,Disperser Recipe
+1097,item_disperser,SLark can you buy Abbissal Blessing Disperser
+1098,item_recipe_samurai_tabi,Samurai Tabi Recipe
+1099,item_recipe_witches_switch,Witches Switch Recipe
+1100,item_witches_switch,Witches Switch
+1101,item_recipe_harpoon,Harpoon Recipe
+1107,item_phylactery,Phylactery
+1122,item_diadem,Diadem
+1123,item_blood_grenade,Blyat Grenade
+1124,item_spark_of_courage,Spark of Courage
+1125,item_cornucopia,Cornucopia
+1127,item_recipe_pavise,Pavise Recipe
+1128,item_pavise,Pavise
+1154,item_royale_with_cheese,Block of Cheese
 1466,item_gungir,Gleipnir
 1565,item_recipe_gungir,Gleipnir Recipe
+2091,item_tier1_token,Tier I Token
+2092,item_tier2_token,Tier Two Token
+2093,item_tier3_token,Tear 3 Tolkien
+2094,item_tier4_token,Tier sqrt(4) Token
+2095,item_tier5_token,Tier 101 Token
+2096,item_vindicators_axe,Vindicator's Axe
+2097,item_duelist_gloves,Duelist Gloves
+2098,item_horizons_equilibrium,Horizon's Equilibrium
+2099,item_blighted_spirit,Blighted Spirit
+2190,item_dandelion_amulet,Dandelion Amulet
+2191,item_turtle_shell,Turtle Shell
+2192,item_martyrs_plate,Fancy Jihad Suit
+2193,item_gossamer_cape,Gossamer Cape
+4204,item_famango,Fruit
+4205,item_great_famango,Big Fruit
+4206,item_greater_famango,Gigafruit
+4300,item_ofrenda,Beloved Memory
+4301,item_ofrenda_shovel,Scrying Shovel
+4302,item_ofrenda_pledge,Forebearer's Fortune
