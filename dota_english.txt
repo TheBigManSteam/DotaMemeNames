@@ -1009,6 +1009,19 @@
 		// the buff description (I think)
 		"DOTA_Tooltip_modifier_troll_warlord_battle_trance_Description"				"Too angry to die"
 
+		// Well Wishes
+		"DOTA_Tooltip_modifier_mp_regen"					"Well Wishes"
+		"DOTA_Tooltip_modifier_mp_regen_Description"		"1.5 mp/s"
+		// Mighty Mines
+		"DOTA_Tooltip_modifier_hp_regen"					"Mighty Mines"
+		"DOTA_Tooltip_modifier_hp_regen_Descriptions"		"4 hp/sec"
+		// Stalwart Statues
+		"DOTA_Tooltip_modifier_bonus_armor"					"Rock Hard"
+		"DOTA_Tooltip_modifier_bonus_armor_Description"		"2 armor"
+		// Skeleton Strength
+		"DOTA_Tooltip_modifier_bonus_damage"				"Bone Zone"
+		"DOTA_Tooltip_modifier_bonus_damage_Description"	"5 damage"
+
 
 		// CENTAUR Warrunner
 		"DOTA_Tooltip_ability_centaur_hoof_stomp"									"Step"
