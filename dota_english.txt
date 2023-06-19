@@ -1447,7 +1447,8 @@ He's gonna catch 'em all 'cause he's Danny Phantom"
 		
 		"DOTA_Tooltip_Ability_item_blood_grenade"				"Blyat Grenado"
 		"DOTA_Tooltip_Ability_item_martyrs_plate"				"Fancy Jihad Suit"
-		"DOTA_Tooltip_Ability_item_disperser"					"SLark can you buy Abbissal Blessing Disperser"
+		"DOTA_Tooltip_Ability_item_disperser"					"Abbissal Blessing Disperser"
+		"DOTA_Tooltip_Ability_item_disperser_lore"				"SLark can you buy Abbissal Blessing Disperser"
 	}
 }
 
