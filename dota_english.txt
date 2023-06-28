@@ -1134,6 +1134,7 @@
 		// TECHIES
 		"DOTA_Tooltip_ability_techies_land_mines"									"IEDs"
 		"DOTA_Tooltip_ability_techies_stasis_trap"									"Stasis Trap"
+		"DOTA_Tooltip_ability_techies_reactive_tazer"								"\"Stop Resisting!\""
 		"DOTA_Tooltip_ability_techies_suicide"										"Aloha Snackbar!"
 		"DOTA_Tooltip_ability_techies_remote_mines"									"Remote Mines"
 		"DOTA_Tooltip_ability_techies_focused_detonate"								"Focused Detonate"
@@ -1143,7 +1144,7 @@
 		"DOTA_Tooltip_ability_winter_wyvern_arctic_burn"							"Arctic Burn"
 		"DOTA_Tooltip_ability_winter_wyvern_splinter_blast"							"Splinter Blast"
 		"DOTA_Tooltip_ability_winter_wyvern_cold_embrace"							"Cold Hug"
-		"DOTA_Tooltip_ability_winter_wyvern_winters_curse"							"Winter's Curse"		
+		"DOTA_Tooltip_ability_winter_wyvern_winters_curse"							"Winter's Curse"
 		
 		//Monkey King
 		"DOTA_Tooltip_ability_monkey_king_boundless_strike"							"Stick Smash"
