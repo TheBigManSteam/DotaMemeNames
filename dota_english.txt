@@ -261,6 +261,7 @@
 		// Neutral Creeps
 
 		"npc_dota_neutral_kobold"						"Kobold"
+		"DOTA_Tooltip_modifier_kobold_tunneler_prospecting_aura_money"		"bling bing aura"
 		"npc_dota_neutral_kobold_tunneler"				"Kobold Soldier"
 		"npc_dota_neutral_kobold_taskmaster"			"Kobold Pimpman"
 		
