@@ -58,7 +58,7 @@
 		"npc_dota_hero_furion"				"Natty P"
 		"npc_dota_hero_life_stealer"		"Loaf Stealer"
 		"npc_dota_hero_dark_seer"			"Dork Seer"
-		"npc_dota_hero_clinkz"				"Clonkz"
+		"npc_dota_hero_clinkz"				"Seasonal Hero"
 		"npc_dota_hero_omniknight"			"Mitt Romniknight"
 		"npc_dota_hero_enchantress"			"Chan-Chan"
 		"npc_dota_hero_huskar"				"Hooskar"
@@ -715,6 +715,7 @@
 		
 		//CLINKZ
 		"DOTA_Tooltip_ability_clinkz_strafe"											"Strafe"
+		"DOTA_Tooltip_ability_clinkz_tar_bomb"											"Car Bomb"
 		"DOTA_Tooltip_ability_clinkz_searing_arrows"									"Searing Arrows"
 		"DOTA_Tooltip_ability_clinkz_wind_walk"											"Spooky Walk"
 		"DOTA_Tooltip_ability_clinkz_death_pact"										"Jonestown Vacation Ticket"
