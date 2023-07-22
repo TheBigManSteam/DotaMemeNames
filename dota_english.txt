@@ -409,6 +409,7 @@
 		"DOTA_Tooltip_ability_lion_voodoo"												"Hex"
 		"DOTA_Tooltip_ability_lion_mana_drain"											"Mana succ"
 		"DOTA_Tooltip_ability_lion_finger_of_death"										"Stinky Pinky"
+		"DOTA_Tooltip_ability_lion_finger_of_death_Lore"								"The Rear Surprise: It'll shock ya"
 		
 		//VENGEFUL
 		"DOTA_Tooltip_ability_vengefulspirit_magic_missile"								"Magic Missile"
