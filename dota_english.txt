@@ -120,7 +120,7 @@
 		"npc_dota_hero_mars"				"Disney Villain"
 		"npc_dota_hero_grimstroke"			"Evil Bob Ross"
 		"npc_dota_hero_snapfire"			"Cookie Grandma"
-		"npc_dota_hero_void_spirit"			"Purple Ember"
+		"npc_dota_hero_void_spirit"			"G4m3R Sp1R17"
 		"npc_dota_hero_pangolier"			"Hon Hon Hon"
 		"npc_dota_hero_monkey_king"			"Squinty Eyed Monkey Man"
 		"npc_dota_hero_hoodwink"			"Hot Topic Squirrel"
@@ -1186,10 +1186,10 @@
 		"DOTA_Tooltip_ability_grimstroke_soulbind"									"Gotta Give him a friend"
 		
 		//void spirit
-		"DOTA_Tooltip_ability_void_spirit_aether_remnant"							"2d Waifu"
-		"DOTA_Tooltip_ability_void_spirit_dissimilate"								"Rise Up"
-		"DOTA_Tooltip_ability_void_spirit_resonant_pulse"							"Mountain Dew: Voltage"
-		"DOTA_Tooltip_ability_void_spirit_astral_step"								"Nothing Personal, Kid"
+		"DOTA_Tooltip_ability_void_spirit_aether_remnant"							"2d W41fu"
+		"DOTA_Tooltip_ability_void_spirit_dissimilate"								"R153 Up"
+		"DOTA_Tooltip_ability_void_spirit_resonant_pulse"							"M0un741n D3w: V0174g3"
+		"DOTA_Tooltip_ability_void_spirit_astral_step"								"N07h1ng P3r50n41, K1d"
 		
 		//Snapfire
 		"DOTA_Tooltip_ability_snapfire_scatterblast"								"My Mix Tape"
