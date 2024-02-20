@@ -22,7 +22,7 @@
 		"npc_dota_hero_crystal_maiden"		"Cold Woman"
 		"npc_dota_hero_sven"				"Steven"
 		"npc_dota_hero_skeleton_king"		"Skeleton King"
-		"npc_dota_hero_storm_spirit"		"Stromboli"
+		"npc_dota_hero_storm_spirit"		"Stromboli Spirit"
 		"npc_dota_hero_sand_king"			"Sand-kun"
 		"npc_dota_hero_nevermore"			"Shadow Friend"
 		"npc_dota_hero_drow_ranger"			"drrrngr"
@@ -260,7 +260,7 @@
 
 		// Neutral Creeps
 
-		"npc_dota_neutral_kobold"						"Kobold"
+		"npc_dota_neutral_kobold"						"Big Money Haver"
 		"DOTA_Tooltip_modifier_kobold_tunneler_prospecting_aura_money"		"bling bing aura"
 		"npc_dota_neutral_kobold_tunneler"				"Kobold Soldier"
 		"npc_dota_neutral_kobold_taskmaster"			"Kobold Pimpman"
@@ -512,7 +512,7 @@
 		"DOTA_Tooltip_ability_axe_berserkers_call"										"Berserker's Call"
 		"DOTA_Tooltip_ability_axe_battle_hunger"										"Battle Hunger"
 		"DOTA_Tooltip_ability_axe_counter_helix"										"Spin to Win"
-		"DOTA_Tooltip_ability_axe_counter_helix_Description"										"Cut you down like cornwood"
+		"DOTA_Tooltip_ability_axe_counter_helix_Description"							"Cut you down like cornwood"
 		"DOTA_Tooltip_ability_axe_culling_blade"										"Dunk on them"
 		
 		//PHANTOM LANCER
@@ -548,7 +548,7 @@
 		//WARLOCK
 		"DOTA_Tooltip_ability_warlock_fatal_bonds"										"Fatal Bonds"
 		"DOTA_Tooltip_ability_warlock_shadow_word"										"Shadow Word"
-		"DOTA_Tooltip_ability_warlock_upheaval"											"Upheaval"
+		"DOTA_Tooltip_ability_warlock_upheaval"											"The Soup"
 		"DOTA_Tooltip_ability_warlock_rain_of_chaos"									"The Rock"
 		
 		//ZEUS
@@ -614,7 +614,7 @@
 		"DOTA_Tooltip_ability_enigma_malefice"											"Male-fist"
 		"DOTA_Tooltip_ability_enigma_demonic_conversion"								"Summon the Squad"
 		"DOTA_Tooltip_ability_enigma_midnight_pulse"									"Midnight Pulse"
-		"DOTA_Tooltip_ability_enigma_black_hole"										"Black Hooooooole"
+		"DOTA_Tooltip_ability_enigma_black_hole"										"Black Hoooooooole"
 		
 		//TINKER
 		"DOTA_Tooltip_ability_tinker_laser"												"Pew pew"
@@ -638,7 +638,7 @@
 		"DOTA_Tooltip_ability_slardar_sprint"											"Sprint"
 		"DOTA_Tooltip_ability_slardar_slithereen_crush"									"Slithereen Crush"
 		"DOTA_Tooltip_ability_slardar_bash"												"Bash"
-		"DOTA_Tooltip_ability_slardar_amplify_damage"									"Amplify Damage"
+		"DOTA_Tooltip_ability_slardar_amplify_damage"									"Amp Damage"
 		
 		//BEASTMASTER
 		"DOTA_Tooltip_ability_beastmaster_wild_axes"									"Wild Axes"
@@ -657,9 +657,10 @@
 		"DOTA_Tooltip_ability_venomancer_poison_nova"									"COVID-42"
 		
 		//FACELESS VOID
-		"DOTA_Tooltip_ability_faceless_void_time_walk"									"Time Walk"
+		"DOTA_Tooltip_ability_faceless_void_time_walk"									"Pop-It"
+		"DOTA_Tooltip_ability_faceless_void_time_dilation"								"Drop-It"
 		"DOTA_Tooltip_ability_faceless_void_backtrack"									"Backtrack"
-		"DOTA_Tooltip_ability_faceless_void_time_lock"									"Time Lock"
+		"DOTA_Tooltip_ability_faceless_void_time_lock"									"Lock-It"
 		"DOTA_Tooltip_ability_faceless_void_chronosphere"								"Homosphere"
 	
 		//DEATH PROPHET
@@ -782,7 +783,7 @@
 
 
 		//CHEN
-		"DOTA_Tooltip_ability_chen_penitence"											"Penitence"
+		"DOTA_Tooltip_ability_chen_penitence"											"Penis-tense"
 		"DOTA_Tooltip_ability_chen_test_of_faith"										"Test of Faith"
 		"DOTA_Tooltip_ability_chen_test_of_faith_teleport"								"Test of Faith"
 		"DOTA_Tooltip_ability_chen_holy_persuasion"										"Holy Persuasion"
@@ -842,7 +843,7 @@
 		"DOTA_Tooltip_ability_invoker_exort"										"Exort"
 		"DOTA_Tooltip_ability_invoker_invoke"										"Invoke"
 		"DOTA_Tooltip_ability_invoker_cold_snap"									"Cold Snap"
-		"DOTA_Tooltip_ability_invoker_ghost_walk"									"Ghost Walk"
+		"DOTA_Tooltip_ability_invoker_ghost_walk"									"Ceno Walk"
 		"DOTA_Tooltip_ability_invoker_ghost_walk_Description"						"You can't see him. His time is now."
 		"DOTA_Tooltip_ability_invoker_tornado"										"Tornado"
 		"DOTA_Tooltip_ability_invoker_emp"											"EMP"
@@ -1012,18 +1013,6 @@
 		// the buff description (I think)
 		"DOTA_Tooltip_modifier_troll_warlord_battle_trance_Description"				"Too angry to die"
 
-		// Well Wishes
-		"DOTA_Tooltip_modifier_mp_regen"					"Well Wishes"
-		"DOTA_Tooltip_modifier_mp_regen_Description"		"1.5 mp/s"
-		// Mighty Mines
-		"DOTA_Tooltip_modifier_hp_regen"					"Mighty Mines"
-		"DOTA_Tooltip_modifier_hp_regen_Descriptions"		"4 hp/sec"
-		// Stalwart Statues
-		"DOTA_Tooltip_modifier_bonus_armor"					"Rock Hard"
-		"DOTA_Tooltip_modifier_bonus_armor_Description"		"2 armor"
-		// Skeleton Strength
-		"DOTA_Tooltip_modifier_bonus_damage"				"Bone Zone"
-		"DOTA_Tooltip_modifier_bonus_damage_Description"	"5 damage"
 
 
 		// CENTAUR Warrunner
@@ -1222,22 +1211,22 @@
 		//"DOTA_Tooltip_ability_muerta_gunslinger"								"Gunslinger"
 		"DOTA_Tooltip_ability_muerta_pierce_the_veil"							"Going Ghost"
 		"DOTA_Tooltip_ability_muerta_pierce_the_veil_lore"							"Young Danny Fenton, he was just 14
-When his parents built a very strange machine
-It was designed to view a world unseen
-(He's gonna catch 'em all 'cause he's Danny Phantom)
-When it didn't quite work, his folks, they just quit
-But then Danny took a look inside of it
-There was a great big flash, everything just changed
-His molecules got all rearranged
-(Phantom, phantom)
-When he first woke up, he realized he had snow-white hair
-And glowing green eyes
-He could walk through walls, disappear, and fly
-He was much more unique than the other guys
-It was then that he knew what he had to do
-He had to stop all the ghosts who were coming through
-He's here to fight for me and you
-He's gonna catch 'em all 'cause he's Danny Phantom"
+																					When his parents built a very strange machine
+																					It was designed to view a world unseen
+																					(He's gonna catch 'em all 'cause he's Danny Phantom)
+																					When it didn't quite work, his folks, they just quit
+																					But then Danny took a look inside of it
+																					There was a great big flash, everything just changed
+																					his molecules got all rearranged
+																					(Phantom, phantom)
+																					When he first woke up, he realized he had snow-white hair
+																					And glowing green eyes
+																					He could walk through walls, disappear, and fly
+																					He was much more unique than the other guys
+																					It was then that he knew what he had to do
+																					He had to stop all the ghosts who were coming through
+																					He's here to fight for me and you
+																					He's gonna catch 'em all 'cause he's Danny Phantom"
 		"DOTA_Tooltip_modifier_muerta_pierce_the_veil_Description"				"Going Ghost"
 
 		//Primal Beast
@@ -1247,6 +1236,21 @@ He's gonna catch 'em all 'cause he's Danny Phantom"
 		"DOTA_Tooltip_ability_primal_beast_uproar"									"Rwar"
 		"DOTA_Tooltip_ability_primal_beast_rock_throw"								"ROCKS!"
 		"DOTA_Tooltip_ability_primal_beast_pulverize"								"Devour Toddler"
+		
+		
+		
+		// Well Wishes
+		"DOTA_Tooltip_modifier_mp_regen"					"Well Wishes"
+		"DOTA_Tooltip_modifier_mp_regen_Description"		"1.5 mp/s"
+		// Mighty Mines
+		"DOTA_Tooltip_modifier_hp_regen"					"Mighty Mines"
+		"DOTA_Tooltip_modifier_hp_regen_Descriptions"		"4 hp/sec"
+		// Stalwart Statues
+		"DOTA_Tooltip_modifier_bonus_armor"					"Rock Hard"
+		"DOTA_Tooltip_modifier_bonus_armor_Description"		"2 armor"
+		// Skeleton Strength
+		"DOTA_Tooltip_modifier_bonus_damage"				"Bone Zone"
+		"DOTA_Tooltip_modifier_bonus_damage_Description"	"5 damage"
 		
 		
 		
