@@ -24,7 +24,7 @@
 		"npc_dota_hero_skeleton_king"		"Skeleton King"
 		"npc_dota_hero_storm_spirit"		"Stromboli Spirit"
 		"npc_dota_hero_sand_king"			"Sand-kun"
-		"npc_dota_hero_nevermore"			"Shadow Friend"
+		"npc_dota_hero_nevermore"			"Sweaty Friend"
 		"npc_dota_hero_drow_ranger"			"drrrngr"
 		"npc_dota_hero_axe"					"Le Balanced Axe Man"
 		"npc_dota_hero_bloodseeker"			"Butt Seeker"
@@ -1440,6 +1440,7 @@
 		"DOTA_Tooltip_Ability_item_eye_of_the_vizier"			"Eye of the Dave"
 		"DOTA_Tooltip_Ability_item_dagger_of_ristul"			"Dagger of Ristuuuuuuuuuuul"
 		"DOTA_Tooltip_Ability_item_telescope"					"Tellerscope"
+		"DOTA_Tooltip_Ability_item_cloak_of_flames"				"Radiance Jr."
 		
 		"DOTA_Tooltip_Ability_item_blitz_knuckles"				"485's"
 		"DOTA_Tooltip_Ability_item_holy_locket"					"That One Shitty Item That Only Jared Ever Buys"
