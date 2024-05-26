@@ -240,23 +240,23 @@
 		
 		"npc_dota_creep_badguys_melee"					"Melee Minion"
 		"npc_dota_creep_badguys_melee_upgraded"			"Super Melee Minion"
-		"npc_dota_creep_badguys_melee_upgraded_mega"	"Mega Melee Minion"
+		"npc_dota_creep_badguys_melee_upgraded_mega"	"Megan's Melee Minion"
 		"npc_dota_creep_badguys_ranged"					"Ranged Minion"
 		"npc_dota_creep_badguys_ranged_upgraded"		"Super Ranged Minion"
-		"npc_dota_creep_badguys_ranged_upgraded_mega"	"Mega Ranged Minion"
+		"npc_dota_creep_badguys_ranged_upgraded_mega"	"Megan's Ranged Minion"
 		"npc_dota_badguys_siege"						"Cartus"
 		"npc_dota_badguys_siege_upgraded"				"Super Cartus"
-		"npc_dota_badguys_siege_upgraded_mega"			"Mega Cartus"
+		"npc_dota_badguys_siege_upgraded_mega"			"Megan's Cartus"
 		
 		"npc_dota_creep_goodguys_melee"					"Melee Minion"
 		"npc_dota_creep_goodguys_melee_upgraded"		"Super Melee Minion"
-		"npc_dota_creep_goodguys_melee_upgraded_mega"	"Mega Melee Minion"
+		"npc_dota_creep_goodguys_melee_upgraded_mega"	"Megan's Melee Minion"
 		"npc_dota_creep_goodguys_ranged"				"Ranged Minion"
 		"npc_dota_creep_goodguys_ranged_upgraded"		"Super Ranged Minion"
-		"npc_dota_creep_goodguys_ranged_upgraded_mega"	"Mega Ranged Minion"
+		"npc_dota_creep_goodguys_ranged_upgraded_mega"	"Megan's Ranged Minion"
 		"npc_dota_goodguys_siege"						"Cartholomew"
 		"npc_dota_goodguys_siege_upgraded"				"Super Cartholomew"
-		"npc_dota_goodguys_siege_upgraded_mega"			"Mega Cartholomew"
+		"npc_dota_goodguys_siege_upgraded_mega"			"Megan's Cartholomew"
 
 		// Neutral Creeps
 
