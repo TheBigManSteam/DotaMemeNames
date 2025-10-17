@@ -766,14 +766,14 @@
 		"DOTA_Tooltip_ability_weaver_the_swarm"											"The Swarm"
 		"DOTA_Tooltip_ability_weaver_shukuchi"											"Skuchi"
 		"DOTA_Tooltip_ability_weaver_geminate_attack"									"Geminate Attack"
-		"DOTA_Tooltip_ability_weaver_time_lapse"										"Time Lapse"
+		"DOTA_Tooltip_ability_weaver_time_lapse"										"Dementia"
 
 
 		//JAKIRO
-		"DOTA_Tooltip_ability_jakiro_dual_breath"										"Dual Breath"
-		"DOTA_Tooltip_ability_jakiro_ice_path"											"Ice Path"
-		"DOTA_Tooltip_ability_jakiro_liquid_fire"										"Liquid Fire"
-		"DOTA_Tooltip_ability_jakiro_macropyre"											"Macropyre"
+		"DOTA_Tooltip_ability_jakiro_dual_breath"										"Lane Winner"
+		"DOTA_Tooltip_ability_jakiro_ice_path"											"The Nice Path"
+		"DOTA_Tooltip_ability_jakiro_liquid_fire"										"Kerosene"
+		"DOTA_Tooltip_ability_jakiro_macropyre"											"Bigflame"
 
 
 		//BATRIDER
@@ -828,13 +828,13 @@
 		//SPIRIT BREAKER
 		"DOTA_Tooltip_ability_spirit_breaker_charge_of_darkness"					"AAAAAAAAAAAHHHHHHHH"
 		"DOTA_Tooltip_ability_spirit_breaker_empowering_haste"						"Empowering Haste"
-		"DOTA_Tooltip_ability_spirit_breaker_greater_bash"							"Greater Bash"
+		"DOTA_Tooltip_ability_spirit_breaker_greater_bash"							"17%"
 		"DOTA_Tooltip_ability_spirit_breaker_greater_bash_lore"						"BASH"
 		"DOTA_Tooltip_ability_spirit_breaker_nether_strike"							"Nether Strike"
 
 		//ALCHEMIST
 		"DOTA_Tooltip_ability_alchemist_acid_spray"									"Acid Spray"
-		"DOTA_Tooltip_ability_alchemist_unstable_concoction_throw"					"Unstable Concoction Throw"
+		"DOTA_Tooltip_ability_alchemist_unstable_concoction_throw"					"Self Stun"
 		"DOTA_Tooltip_ability_alchemist_goblins_greed"								"(((Greed)))"
 		"DOTA_Tooltip_ability_alchemist_chemical_rage"								"Autistic Rage"
 
@@ -855,14 +855,14 @@
 		"DOTA_Tooltip_ability_invoker_sun_strike"									"Sun Strike-u"
 		"DOTA_Tooltip_ability_invoker_forge_spirit"									"Forge Spirit"
 		"DOTA_Tooltip_ability_forged_spirit_melting_strike"							"Melting Strike"
-		"DOTA_Tooltip_ability_invoker_ice_wall"										"Ice Wall"
+		"DOTA_Tooltip_ability_invoker_ice_wall"										"QQW"
 		"DOTA_Tooltip_ability_invoker_deafening_blast"								"Deafening Blast"
 
 		//Silencer
 		"DOTA_Tooltip_ability_silencer_curse_of_the_silent"							"Curse of the Silent"
-		"DOTA_Tooltip_ability_silencer_glaives_of_wisdom"							"Rocket-Power Fidget Spinners of Wisdom"
-		"DOTA_Tooltip_ability_silencer_last_word"									"Last Word"
-		"DOTA_Tooltip_ability_silencer_global_silence"								"Global Silence"
+		"DOTA_Tooltip_ability_silencer_glaives_of_wisdom"							"Rocket-Powered Fidget Spinners of Wisdom"
+		"DOTA_Tooltip_ability_silencer_last_word"									"Lastest Word"
+		"DOTA_Tooltip_ability_silencer_global_silence"								"Shush Button"
 
 		//OUTWORLD Devourer
 		"DOTA_Tooltip_ability_obsidian_destroyer_arcane_orb"						"Arcane Orb"
