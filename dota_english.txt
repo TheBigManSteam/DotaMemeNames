@@ -175,7 +175,7 @@
 		"npc_dota_warlock_golem_scepter_3"				"Butthead"
 		"npc_dota_broodmother_spiderling"				"Spoderling"
 		"npc_dota_broodmother_spiderite"				"Spoderite"
-		"npc_dota_witch_doctor_death_ward"				"Death Ward"
+		"npc_dota_witch_doctor_death_ward"				"Ward of Death"
 		"npc_dota_shadow_shaman_ward_1"					"Snek Ward"
 		"npc_dota_shadow_shaman_ward_2"					"Snek Ward"
 		"npc_dota_shadow_shaman_ward_3"					"Snek Ward"
@@ -363,103 +363,106 @@
 		//ANTIMAGE
 		"DOTA_Tooltip_ability_antimage_mana_break"										"Mana Break"
 		"DOTA_Tooltip_ability_antimage_blink"											"Blink"
-		"DOTA_Tooltip_ability_antimage_spell_shield"									"Spell Shield"
+		"DOTA_Tooltip_ability_antimage_blink_lore"										"The Secret Queen lives up to her title, making her pain impossible to escape."
+		"DOTA_Tooltip_ability_antimage_spell_shield"									"10,000 Gold Item"
 		"DOTA_Tooltip_ability_antimage_mana_void"										"Sunder Cabal"
 		
 		//QUEEN OF PAIN
 		"DOTA_Tooltip_ability_queenofpain_shadow_strike"								"Dagger"
 		"DOTA_Tooltip_ability_queenofpain_blink"										"Blink"
+		"DOTA_Tooltip_ability_queenofpain_blink_lore"									"In his encounter with the Dead Gods, Anti-Mage learned the value of being elusive."
 		"DOTA_Tooltip_ability_queenofpain_scream_of_pain"								"Scream Of Pain"
 		"DOTA_Tooltip_ability_queenofpain_sonic_wave"									"The Song of my People"
 		
 		//LINA
-		"DOTA_Tooltip_ability_lina_dragon_slave"										"Dragon Slave"
-		"DOTA_Tooltip_ability_lina_light_strike_array"									"Light Strike Array"
-		"DOTA_Tooltip_ability_lina_fiery_soul"											"Fiery Soul"
+		"DOTA_Tooltip_ability_lina_dragon_slave"										"Dragon Servant"
+		"DOTA_Tooltip_ability_lina_light_strike_array"									"Light Strike Array[0]"
+		"DOTA_Tooltip_ability_lina_fiery_soul"											"ヒート・ザ・ソウル"
+		"DOTA_Tooltip_ability_lina_fiery_soul_lore"										"Bleach: Heat the Soul is the first installment in the Heat the Soul fighting game series, released on March 24, 2005. The theme song for the game is *: Asterisk by Orange Range, which also happens to be the original opening theme for the anime. The game has a total of six characters, all of which derived from the Agent of the Shinigami arc."
 		"DOTA_Tooltip_ability_lina_laguna_blade"										"Laguna Blast-o"
 		
 		//MIRANA
-		"DOTA_Tooltip_ability_mirana_arrow"												"Sacred Arrow"
-		"DOTA_Tooltip_ability_mirana_invis"												"Moonlight Shadow"
+		"DOTA_Tooltip_ability_mirana_arrow"												"Skill Ceiling"
+		"DOTA_Tooltip_ability_mirana_invis"												"Global Invis"
 		"DOTA_Tooltip_ability_mirana_leap"												"Jump"
 		"DOTA_Tooltip_ability_mirana_starfall"											"Starstorm"
 
 		//LIFESTEALER
-		"DOTA_Tooltip_ability_life_stealer_rage"										"Rage"	
-		"DOTA_Tooltip_ability_life_stealer_feast"										"Feast"
-		"DOTA_Tooltip_ability_life_stealer_open_wounds"									"Open Wounds"
+		"DOTA_Tooltip_ability_life_stealer_rage"										"Madge"	
+		"DOTA_Tooltip_ability_life_stealer_feast"										"Eat Ass"
+		"DOTA_Tooltip_ability_life_stealer_open_wounds"									"Open Asshole"
 		"DOTA_Tooltip_ability_life_stealer_open_wounds_tooltip_range"					"RANGE:"
 		"DOTA_Tooltip_ability_life_stealer_infest"										"Crawl Inside Asshole"
-		"DOTA_Tooltip_ability_life_stealer_control"										"Control"
-		"DOTA_Tooltip_ability_life_stealer_consume"										"Consume"
+		"DOTA_Tooltip_ability_life_stealer_control"										"Kontol"
+		"DOTA_Tooltip_ability_life_stealer_consume"										"Consoom"
 		
 		//FURION
-		"DOTA_Tooltip_ability_furion_sprout"											"Sprout"
+		"DOTA_Tooltip_ability_furion_sprout"											"Plant Trees"
 		"DOTA_Tooltip_ability_furion_teleportation"										"TP"
-		"DOTA_Tooltip_ability_furion_force_of_nature"									"Nature's Call"
+		"DOTA_Tooltip_ability_furion_force_of_nature"									"Summon Trees"
 		"DOTA_Tooltip_ability_furion_wrath_of_nature"									"Steal Farm"
 
 		//WINDRUNNER
-		"DOTA_Tooltip_ability_windrunner_shackleshot"									"Shackleshot"
+		"DOTA_Tooltip_ability_windrunner_shackleshot"									"Shackleshoot"
 		"DOTA_Tooltip_ability_windrunner_powershot"										"Powershoot"
 		"DOTA_Tooltip_ability_windrunner_windrun"										"Windginge"
-		"DOTA_Tooltip_ability_windrunner_focusfire"										"Focus Fire"
+		"DOTA_Tooltip_ability_windrunner_focusfire"										"Aimbot"
 		
 		//LION
 		"DOTA_Tooltip_ability_lion_impale"												"Spiiiike"
-		"DOTA_Tooltip_ability_lion_voodoo"												"Hex"
-		"DOTA_Tooltip_ability_lion_mana_drain"											"Mana succ"
+		"DOTA_Tooltip_ability_lion_voodoo"												"Stun 2"
+		"DOTA_Tooltip_ability_lion_mana_drain"											"Mana Succ"
 		"DOTA_Tooltip_ability_lion_finger_of_death"										"Stinky Pinky"
 		"DOTA_Tooltip_ability_lion_finger_of_death_Lore"								"The Rear Surprise: It'll shock ya"
 		
 		//VENGEFUL
 		"DOTA_Tooltip_ability_vengefulspirit_magic_missile"								"Magic Missile"
-		"DOTA_Tooltip_ability_vengefulspirit_wave_of_terror"							"Wave of Terror"
-		"DOTA_Tooltip_ability_vengefulspirit_command_aura"								"Vengeance Aura"
-		"DOTA_Tooltip_ability_vengefulspirit_nether_swap"								"Nether Swap"
+		"DOTA_Tooltip_ability_vengefulspirit_wave_of_terror"							"Wave of Armor Reduction"
+		"DOTA_Tooltip_ability_vengefulspirit_command_aura"								"Half Life 3"
+		"DOTA_Tooltip_ability_vengefulspirit_nether_swap"								"Neither Swap"
 		
 		//WITCHDOCTOR
 		"DOTA_Tooltip_ability_witch_doctor_paralyzing_cask"								"Da Coconut"
 		"DOTA_Tooltip_ability_witch_doctor_voodoo_restoration"							"Jared Skill"
 		"DOTA_Tooltip_ability_witch_doctor_maledict"									"Maledick"
-		"DOTA_Tooltip_ability_witch_doctor_death_ward"									"Death Ward"
+		"DOTA_Tooltip_ability_witch_doctor_death_ward"									"Death of Ward"
 
 		//LESHRAC
-		"DOTA_Tooltip_ability_leshrac_split_earth"										"Split Earth"
-		"DOTA_Tooltip_ability_leshrac_diabolic_edict"									"Diabolic Edict"
-		"DOTA_Tooltip_ability_leshrac_lightning_storm"									"Lightning Storm"
-		"DOTA_Tooltip_ability_leshrac_pulse_nova"										"Pulse Nova"
+		"DOTA_Tooltip_ability_leshrac_split_earth"										"Skill Floor"
+		"DOTA_Tooltip_ability_leshrac_diabolic_edict"									"Diabolic Edick"
+		"DOTA_Tooltip_ability_leshrac_lightning_storm"									"Lightning Stromboli"
+		"DOTA_Tooltip_ability_leshrac_pulse_nova"										"Good Radiance"
 
 		//JUGGERNAUT
 		"DOTA_Tooltip_ability_juggernaut_blade_fury"									"Spinning"
-		"DOTA_Tooltip_ability_juggernaut_healing_ward"									"Healing Ward"
-		"DOTA_Tooltip_ability_juggernaut_blade_dance"									"Blade Dance"
+		"DOTA_Tooltip_ability_juggernaut_healing_ward"									"Aggro Puller"
+		"DOTA_Tooltip_ability_juggernaut_blade_dance"									"Lane Griefer"
 		"DOTA_Tooltip_ability_juggernaut_omni_slash"									"Many Chop"
 		
 		//PUDGE
-		"DOTA_Tooltip_ability_pudge_meat_hook"											"Meat Hook"
+		"DOTA_Tooltip_ability_pudge_meat_hook"											"Meat Huck"
 		"DOTA_Tooltip_ability_pudge_rot"												"Body Odor"
-		"DOTA_Tooltip_ability_pudge_flesh_heap"											"Flesh Heap"
+		"DOTA_Tooltip_ability_pudge_flesh_heap"											"Obesity"
 		"DOTA_Tooltip_ability_pudge_dismember"											"Eat"
 		"DOTA_Tooltip_ability_pudge_dismember_lore"										"EAT THEM, EAAAT THEM -Jesse"
 		
 		//BANE
-		"DOTA_Tooltip_ability_bane_enfeeble"											"Enfeeble"
+		"DOTA_Tooltip_ability_bane_enfeeble"											"Enweaken"
 		"DOTA_Tooltip_ability_bane_brain_sap"											"Brain Slurp"
-		"DOTA_Tooltip_ability_bane_nightmare"											"Nightmare"
-		"DOTA_Tooltip_ability_bane_nightmare_end"										"Nightmare End"
+		"DOTA_Tooltip_ability_bane_nightmare"											"Bedge"
+		"DOTA_Tooltip_ability_bane_nightmare_end"										"Wakege"
 		"DOTA_Tooltip_ability_bane_fiends_grip"											"Fiend's Grip"
 		
 		//EARTHSHAKER
-		"DOTA_Tooltip_ability_earthshaker_fissure"										"Fissure"
-		"DOTA_Tooltip_ability_earthshaker_enchant_totem"								"Enchant Totem"
-		"DOTA_Tooltip_ability_earthshaker_aftershock"									"Aftershock"
+		"DOTA_Tooltip_ability_earthshaker_fissure"										"Stationary Burrow Strike"
+		"DOTA_Tooltip_ability_earthshaker_enchant_totem"								"Play Bongo"
+		"DOTA_Tooltip_ability_earthshaker_aftershock"									"Aftershook"
 		"DOTA_Tooltip_ability_earthshaker_echo_slam"									"Slam Jam"
 		
 		//SANDKING
-		"DOTA_Tooltip_ability_sandking_burrowstrike"									"Burrowstrike"
+		"DOTA_Tooltip_ability_sandking_burrowstrike"									"Yolo Burrowstrike"
 		"DOTA_Tooltip_ability_sandking_sand_storm"										"Dududududu"
-		"DOTA_Tooltip_ability_sandking_caustic_finale"									"Caustic Finale"
+		"DOTA_Tooltip_ability_sandking_caustic_finale"									"Sploodge"
 		"DOTA_Tooltip_ability_sandking_epicenter"										"Epic Enter"
 		
 		//NEVERMORE
@@ -467,102 +470,105 @@
 		"DOTA_Tooltip_ability_nevermore_shadowraze2"									"2000MMR"
 		"DOTA_Tooltip_ability_nevermore_shadowraze3"									"4000MMR"
 		"DOTA_Tooltip_ability_nevermore_necromastery"									"Necromastery"
-		"DOTA_Tooltip_ability_nevermore_dark_lord"										"Presence of the Dark Lord"
+		"DOTA_Tooltip_ability_nevermore_dark_lord"										"Presence of the Edge, Lord"
 		"DOTA_Tooltip_ability_nevermore_requiem"										"Requiem of Souls"
 		
 		//SVEN
-		"DOTA_Tooltip_ability_sven_storm_bolt"											"Storm Hammer"
-		"DOTA_Tooltip_ability_sven_great_cleave"										"Great Cleave"
-		"DOTA_Tooltip_ability_sven_warcry"												"Warcry"
+		"DOTA_Tooltip_ability_sven_storm_bolt"											"Steven Airlines"
+		"DOTA_Tooltip_ability_sven_great_cleave"										"Battlefury 2"
+		"DOTA_Tooltip_ability_sven_warcry"												"Crimson Guard 2"
 		"DOTA_Tooltip_ability_sven_gods_strength"										"Da Red Makes It Hit Harder"
 		
 		//PHANTOM ASSASSIN
 		"DOTA_Tooltip_ability_phantom_assassin_stifling_dagger"							"One Dagger and I'm Die"
-		"DOTA_Tooltip_ability_phantom_assassin_phantom_strike"							"Phantom Strike"
-		"DOTA_Tooltip_ability_phantom_assassin_blur"									"Blur"
+		"DOTA_Tooltip_ability_phantom_assassin_phantom_strike"							"Phantoom Strike"
+		"DOTA_Tooltip_ability_phantom_assassin_blur"									"Fake Invis"
+		"DOTA_Tooltip_ability_phantom_assassin_blur_lore"								"Blur are an English rock band formed in London in 1988, consisting of singer Damon Albarn, guitarist Graham Coxon, bassist Alex James, and drummer Dave Rowntree. Their debut album, Leisure (1991), incorporated the sounds of Madchester and shoegaze. Following a stylistic change influenced by British guitar pop groups such as the Kinks, the Beatles, and XTC, Blur released the albums Modern Life Is Rubbish (1993), Parklife (1994), and The Great Escape (1995)."
 		"DOTA_Tooltip_ability_phantom_assassin_coup_de_grace"							"Coupe de Grace"
 		
 		//SKELETON KING
-		"DOTA_Tooltip_ability_skeleton_king_hellfire_blast"								"Hellfire Blast"
-		"DOTA_Tooltip_ability_skeleton_king_vampiric_aura"								"Vampiric Aura"
+		"DOTA_Tooltip_ability_skeleton_king_hellfire_blast"								"Biden Blast"
+		"DOTA_Tooltip_ability_skeleton_king_vampiric_aura"								"Skeletal Aura"
 		"DOTA_Tooltip_ability_skeleton_king_mortal_strike"								"Mortal Strike"
 		"DOTA_Tooltip_ability_skeleton_king_reincarnation"								"Reincarnation"
 		"DOTA_Tooltip_ability_skeleton_king_reincarnation_lore"							"Death is my Bitch"
 		
 		//DROW RANGER
-		"DOTA_Tooltip_ability_drow_ranger_frost_arrows"									"Frost Arrows"
+		"DOTA_Tooltip_ability_drow_ranger_frost_arrows"									"Cool Arrows"
 		"DOTA_Tooltip_ability_drow_ranger_silence"										"Silence"
-		"DOTA_Tooltip_ability_drow_ranger_wave_of_silence"								"Gust"
+		"DOTA_Tooltip_ability_drow_ranger_wave_of_silence"								"Wave of Shush"
+		"DOTA_Tooltip_ability_drow_ranger_multishot"									"Multishoot"
+		"DOTA_Tooltip_ability_drow_ranger_glacier"										"Iceburg"
 		"DOTA_Tooltip_ability_drow_ranger_trueshot"										"Precision Aura"
-		"DOTA_Tooltip_ability_drow_ranger_marksmanship"									"Marksmanship"
+		"DOTA_Tooltip_ability_drow_ranger_marksmanship"									"Markswomanship"
 		
 		//MORPHLING
-		"DOTA_Tooltip_ability_morphling_waveform"										"Waveform"
-		"DOTA_Tooltip_ability_morphling_adaptive_strike"								"Adaptive Strike"
+		"DOTA_Tooltip_ability_morphling_waveform"										"Wavefoam"
+		"DOTA_Tooltip_ability_morphling_adaptive_strike"								"Adaptible Strike"
 		"DOTA_Tooltip_ability_morphling_morph_agi"										"Morb (Agility Gain)"
 		"DOTA_Tooltip_ability_morphling_morph_str"										"Morb (Strength Gain)"
 		"DOTA_Tooltip_ability_morphling_replicate"										"Replicate"
 		
 		//BLOOD SEEKER
-		"DOTA_Tooltip_ability_bloodseeker_bloodrage"									"Bloodrage"
-		"DOTA_Tooltip_ability_bloodseeker_blood_bath"									"Blood Rite"
-		"DOTA_Tooltip_ability_bloodseeker_thirst"										"Thirst"
-		"DOTA_Tooltip_ability_bloodseeker_rupture"										"Rupture"
+		"DOTA_Tooltip_ability_bloodseeker_bloodrage"									"Bludrage"
+		"DOTA_Tooltip_ability_bloodseeker_blood_bath"									"Blud Right"
+		"DOTA_Tooltip_ability_bloodseeker_thirst"										"Goon"
+		"DOTA_Tooltip_ability_bloodseeker_rupture"										"Anal Bleeding"
 		
 		//AXE
-		"DOTA_Tooltip_ability_axe_berserkers_call"										"Berserker's Call"
-		"DOTA_Tooltip_ability_axe_battle_hunger"										"Battle Hunger"
+		"DOTA_Tooltip_ability_axe_berserkers_call"										"Taunt"
+		"DOTA_Tooltip_ability_axe_battle_hunger"										"Dylan Skill"
 		"DOTA_Tooltip_ability_axe_counter_helix"										"Spin to Win"
 		"DOTA_Tooltip_ability_axe_counter_helix_Description"							"Cut you down like cornwood"
 		"DOTA_Tooltip_ability_axe_culling_blade"										"Dunk on them"
 		
 		//PHANTOM LANCER
-		"DOTA_Tooltip_ability_phantom_lancer_spirit_lance"								"Spirit Lance"
-		"DOTA_Tooltip_ability_phantom_lancer_doppelwalk"								"Doppelganger"
+		"DOTA_Tooltip_ability_phantom_lancer_spirit_lance"								"Sprit Lance"
+		"DOTA_Tooltip_ability_phantom_lancer_doppelwalk"								"Doppelwalk"
 		"DOTA_Tooltip_ability_phantom_lancer_phantom_edge"								"Phantom Rush"
-		"DOTA_Tooltip_ability_phantom_lancer_juxtapose"									"Juxtapose"
+		"DOTA_Tooltip_ability_phantom_lancer_juxtapose"									"Ja'pose"
 		
-		//RAZOR
-		"DOTA_Tooltip_ability_razor_plasma_field"										"Plasma Field"
-		"DOTA_Tooltip_ability_razor_static_link"										"Static Link"
-		"DOTA_Tooltip_ability_razor_unstable_current"									"Unstable Current"
+		//YAOZOR
+		"DOTA_Tooltip_ability_razor_plasma_field"										"Not-Plasma Field"
+		"DOTA_Tooltip_ability_razor_static_link"										"Damage Succ"
+		"DOTA_Tooltip_ability_razor_unstable_current"									"Spectrum Internet"
 		"DOTA_Tooltip_ability_razor_eye_of_the_storm"									"Eye of the Storm"
 		
 		//STORM SPIRIT
-		"DOTA_Tooltip_ability_storm_spirit_static_remnant"								"Static Remnant"
-		"DOTA_Tooltip_ability_storm_spirit_electric_vortex"								"Electric Vortex"
-		"DOTA_Tooltip_ability_storm_spirit_overload"									"Overload"
+		"DOTA_Tooltip_ability_storm_spirit_static_remnant"								"Static Self"
+		"DOTA_Tooltip_ability_storm_spirit_electric_vortex"								"Electric Succ"
+		"DOTA_Tooltip_ability_storm_spirit_overload"									"Win Lane"
 		"DOTA_Tooltip_ability_storm_spirit_ball_lightning"								"Zip Zoop"
 		
 		//CRYSTAL MAIDEN
 		"DOTA_Tooltip_ability_crystal_maiden_crystal_nova"								"Crystal Nova"
 		"DOTA_Tooltip_ability_crystal_maiden_frostbite"									"Frostbite"
 		"DOTA_Tooltip_ability_crystal_maiden_brilliance_aura"							"The Reason You Picked This Champ"
-		"DOTA_Tooltip_ability_crystal_maiden_freezing_field"							"Freezing Field"
+		"DOTA_Tooltip_ability_crystal_maiden_freezing_field"							"Gamba Field"
 
 		//KUNKKA
 		"DOTA_Tooltip_ability_kunkka_torrent"											"Splash"
-		"DOTA_Tooltip_ability_kunkka_tidebringer"										"Tidebringer"
-		"DOTA_Tooltip_ability_kunkka_x_marks_the_spot"									"X Marks the Spot"
+		"DOTA_Tooltip_ability_kunkka_tidebringer"										"Tidebrung"
+		"DOTA_Tooltip_ability_kunkka_x_marks_the_spot"									"X"
 		"DOTA_Tooltip_ability_kunkka_ghostship"											"Boat"
 		
 		//WARLOCK
-		"DOTA_Tooltip_ability_warlock_fatal_bonds"										"Fatal Bonds"
-		"DOTA_Tooltip_ability_warlock_shadow_word"										"Shadow Word"
+		"DOTA_Tooltip_ability_warlock_fatal_bonds"										"Teamfight Winner"
+		"DOTA_Tooltip_ability_warlock_shadow_word"										"Evil Jared Skill"
 		"DOTA_Tooltip_ability_warlock_upheaval"											"The Soup"
 		"DOTA_Tooltip_ability_warlock_rain_of_chaos"									"The Rock"
 		
 		//ZEUS
-		"DOTA_Tooltip_ability_zuus_arc_lightning"										"Arc Lightning"
-		"DOTA_Tooltip_ability_zuus_lightning_bolt"										"Lightning Bolt"
+		"DOTA_Tooltip_ability_zuus_arc_lightning"										"Chain Lightning"
+		"DOTA_Tooltip_ability_zuus_lightning_bolt"										"Electrogem"
 		"DOTA_Tooltip_ability_zuus_static_field"										"Static Field"
-		"DOTA_Tooltip_ability_zuus_thundergods_wrath"									"Thundergod's Wrath"
+		"DOTA_Tooltip_ability_zuus_thundergods_wrath"									"ZUUS ULT NOW"
 		
 		//TINY
 		"DOTA_Tooltip_ability_tiny_avalanche"											"Avalanche"
-		"DOTA_Tooltip_ability_tiny_toss"												"Toss"
+		"DOTA_Tooltip_ability_tiny_toss"												"Tony Airlines"
 		"DOTA_Tooltip_ability_tiny_craggy_exterior"										"Craggy Exterior"
-		"DOTA_Tooltip_ability_tiny_grow"												"Grow"
+		"DOTA_Tooltip_ability_tiny_grow"												"Enbiggen"
 		
 		//PUCK
 		"DOTA_Tooltip_ability_puck_illusory_orb"										"ORB"
@@ -582,7 +588,7 @@
 		"DOTA_Tooltip_ability_rattletrap_power_cogs"									"CBT"
 		"DOTA_Tooltip_ability_rattletrap_power_cogs_description"						"Forms a barrier of energized cocks around Cockwerk, trapping any units that are near. Enemies outside the trap that touch a cock are knocked back and have their cocks crushed, losing health and mana. Once a cock has delivered a shock, it will power down. Cocks can be destroyed by enemy attacks, but Cockwerk can destroy them with just one."
 		"Dota_Tooltip_ability_rattletrap_power_cogs_lore"								"Cock and ball torture (CBT), occasionally known as penis torture, dick torture, or male genitorture/male genital torture, is a sexual activity involving the application of pain or constriction to the penis or testicles. This may involve directly painful activities, such as genital piercing, wax play, genital spanking, squeezing, ball-busting, genital flogging, urethral play, tickle torture, erotic electrostimulation, kneeing or kicking."
-		"DOTA_Tooltip_ability_rattletrap_rocket_flare"									"Rocket Flare"
+		"DOTA_Tooltip_ability_rattletrap_rocket_flare"									"Cocket Flare"
 		"DOTA_Tooltip_ability_rattletrap_hookshot"										"Other Hook Skill"
 
 		//LICH
