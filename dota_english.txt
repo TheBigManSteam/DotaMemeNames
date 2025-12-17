@@ -898,16 +898,16 @@
 			"Jam"
 
 
-		// Not correct, trying to figure out names
-		"DOTA_Tooltip_ability_largo_bullbelly_blitz"
+		"DOTA_Tooltip_ability_largo_song_fight_song"
 			"The Raspberry"
-		"DOTA_Tooltip_ability_largo_bullbelly_blitz_Description"
+
+		"DOTA_Tooltip_ability_largo_song_fight_song_Description"
 			"LOOOOONNNNESSSTTTTAAAARRRR"
 
-		"DOTA_Tooltip_ability_largo_hotfeet_hustle"
+		"DOTA_Tooltip_ability_largo_song_double_time"
 			"The Blueberry"
 
-		"DOTA_Tooltip_ability_largo_island_elixer"
+		"DOTA_Tooltip_ability_largo_song_good_vibrations"
 			"The Strawberry"
 
 		// Lycan
