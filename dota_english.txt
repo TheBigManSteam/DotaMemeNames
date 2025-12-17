@@ -114,7 +114,7 @@
 		"npc_dota_hero_terrorblade"			"EdgeBlade"
 		"npc_dota_hero_oracle"				"Orakrue"
 		"npc_dota_hero_techies"				"Techis"
-		"npc_dota_hero_winter_wyvern"		"Winter Waifu"
+		"npc_dota_hero_winter_wyvern"                   "Winter Waifu"
 		"npc_dota_hero_arc_warden"			"Self"
 		"npc_dota_hero_dark_willow"			"The Biggest Oversight ..."
 		"npc_dota_hero_mars"				"Disney Villain"
@@ -124,11 +124,12 @@
 		"npc_dota_hero_pangolier"			"Hon Hon Hon"
 		"npc_dota_hero_monkey_king"			"Squinty Eyed Monkey Man"
 		"npc_dota_hero_hoodwink"			"Hot Topic Squirrel"
-        "npc_dota_hero_dawnbreaker"         "Dongbreaker, the Hammermommy"
-        "npc_dota_hero_marci"				"Best Girl"
-		"npc_dota_hero_primal_beast"		"Average Pitbull"
+                "npc_dota_hero_dawnbreaker"                     "Dongbreaker, the Hammermommy"
+                "npc_dota_hero_marci"				"Best Girl"
+		"npc_dota_hero_primal_beast"                    "Average Pitbull"
 		"npc_dota_hero_muerta"				"Mierda"
-		"npc_dota_hero_kez"					"Harvey, esq."
+		"npc_dota_hero_kez"                             "Harvey, esq."
+		"npc_dota_hero_largo"                           "That Creepy Guy at The Record Store"
 
 		"random"							"YOLO"
 	
@@ -875,6 +876,39 @@
 		"DOTA_Tooltip_ability_obsidian_destroyer_astral_imprisonment"				"Astral Imprisonment"
 		"DOTA_Tooltip_ability_obsidian_destroyer_essence_aura"						"Essence Aura"
 		"DOTA_Tooltip_ability_obsidian_destroyer_sanity_eclipse"					"Sanity's Eclipse"
+
+
+		// Largo
+		"DOTA_Tooltip_ability_largo_catchy_lick"
+			"Molest"
+
+		"DOTA_Tooltip_ability_largo_catchy_lick_Description"
+			"Ewwwwwww....."
+
+		"DOTA_Tooltip_ability_largo_frogstomp"
+			"Summon the homies"
+
+		"DOTA_Tooltip_ability_largo_croak_of_genius"
+			"Share earbuds"
+			
+		"DOTA_Tooltip_ability_largo_croak_of_genius_Description"
+			"Yeah you should check these guys out, they're pretty underground still though. *plays Imagine Dragons*"
+
+		"DOTA_Tooltip_ability_largo_amphibian_rhapsody"
+			"Jam"
+
+
+		// Not correct, trying to figure out names
+		"DOTA_Tooltip_ability_largo_bullbelly_blitz"
+			"The Raspberry"
+		"DOTA_Tooltip_ability_largo_bullbelly_blitz_Description"
+			"LOOOOONNNNESSSTTTTAAAARRRR"
+
+		"DOTA_Tooltip_ability_largo_hotfeet_hustle"
+			"The Blueberry"
+
+		"DOTA_Tooltip_ability_largo_island_elixer"
+			"The Strawberry"
 
 		// Lycan
 		"DOTA_Tooltip_ability_lycan_summon_wolves"									"Yiff Party"
