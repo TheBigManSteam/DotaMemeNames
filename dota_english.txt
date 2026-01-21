@@ -33,7 +33,7 @@
 		"npc_dota_hero_morphling"			"Morbling"
 		"npc_dota_hero_zuus"				"Zus"
 		"npc_dota_hero_tiny"				"Tony"
-		"npc_dota_hero_puck"				"Puck The Magic Nonbinary Dragon"
+		"npc_dota_hero_puck"				"Puck The Magical Nonbinary Dragon"
 		"npc_dota_hero_windrunner"			"Windginger"
 		"npc_dota_hero_lich"				"Looch"
 		"npc_dota_hero_shadow_shaman"		"Dr. John Shackleman, Ph.D"
@@ -43,7 +43,7 @@
 		"npc_dota_hero_sniper"				"The Snooper"
 		"npc_dota_hero_necrolyte"			"Sick Man"
 		"npc_dota_hero_warlock"				"Mangolock"
-		"npc_dota_hero_beastmaster"			"Rexxar"
+		"npc_dota_hero_beastmaster"			"Chuck Testa"
 		"npc_dota_hero_venomancer"			"AIDS Slug"
 		"npc_dota_hero_faceless_void"		"Faceful Boy"
 		"npc_dota_hero_death_prophet"		"Spooky Ghost Lady"
@@ -114,7 +114,7 @@
 		"npc_dota_hero_terrorblade"			"EdgeBlade"
 		"npc_dota_hero_oracle"				"Orakrue"
 		"npc_dota_hero_techies"				"Techis"
-		"npc_dota_hero_winter_wyvern"                   "Winter Waifu"
+		"npc_dota_hero_winter_wyvern"       "Winter Waifu"
 		"npc_dota_hero_arc_warden"			"Self"
 		"npc_dota_hero_dark_willow"			"The Biggest Oversight ..."
 		"npc_dota_hero_mars"				"Disney Villain"
@@ -124,12 +124,12 @@
 		"npc_dota_hero_pangolier"			"Hon Hon Hon"
 		"npc_dota_hero_monkey_king"			"Squinty Eyed Monkey Man"
 		"npc_dota_hero_hoodwink"			"Hot Topic Squirrel"
-                "npc_dota_hero_dawnbreaker"                     "Dongbreaker, the Hammermommy"
-                "npc_dota_hero_marci"				"Best Girl"
-		"npc_dota_hero_primal_beast"                    "Average Pitbull"
+        "npc_dota_hero_dawnbreaker"         "Dongbreaker, the Hammermommy"
+        "npc_dota_hero_marci"				"Best Girl"
+		"npc_dota_hero_primal_beast"        "Average Pitbull"
 		"npc_dota_hero_muerta"				"Mierda"
-		"npc_dota_hero_kez"                             "Harvey, esq."
-		"npc_dota_hero_largo"                           "That Creepy Guy at The Record Store"
+		"npc_dota_hero_kez"                 "Harvey, esq."
+		"npc_dota_hero_largo"               "That Creepy Guy at The Record Store"
 
 		"random"							"YOLO"
 	
@@ -350,11 +350,11 @@
 		"npc_dota_badguys_range_rax_mid"	"Ranged Inhibitor"
 		"npc_dota_badguys_range_rax_bot"	"Ranged Inhibitor"
 
-		"npc_dota_goodguys_fort"		"Radiant's Ancient"
-		"npc_dota_badguys_fort"			"Dire's Ancient"
+		"npc_dota_goodguys_fort"			"Radiant's Ancient"
+		"npc_dota_badguys_fort"		  		"Dire's Ancient"
 
-		"npc_dota_goodguys_fillers"		"Hut"
-		"npc_dota_badguys_fillers"		"Hut"
+		"npc_dota_goodguys_fillers"			"Hut"
+		"npc_dota_badguys_fillers"			"Hut"
 		
 		
 
@@ -602,7 +602,7 @@
 		"DOTA_Tooltip_ability_tidehunter_gush"											"Spit"
 		"DOTA_Tooltip_ability_tidehunter_kraken_shell"									"Kraken Shell"
 		"DOTA_Tooltip_ability_tidehunter_anchor_smash"									"Splish Splash"
-		"DOTA_Tooltip_ability_tidehunter_ravage"										"Ravage"
+		"DOTA_Tooltip_ability_tidehunter_ravage"										"School Girl Nightmare"
 		
 		//SHADOWSHAMAN
 		"DOTA_Tooltip_ability_shadow_shaman_ether_shock"								"Zap!"
